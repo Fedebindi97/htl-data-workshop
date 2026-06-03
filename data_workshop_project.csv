@@ -719,96 +719,96 @@
 717,Liguria,2025,Pinot Grigio (White),2032.0,24.0,1500000,North,84.7
 718,Liguria,2025,Primitivo (Red),1831.0,23.0,1500000,North,79.6
 719,Liguria,2025,Montepulciano (Red),1843.0,20.0,1500000,North,92.2
-720,Lombardy,2011,Sangiovese (Red),21097.0,297.0,10000000,North,71.0
-721,lombardy,2011,Nebbiolo (Red),56529.0,1125.0,10000000,North,50.2
-722,Lombardy,2011,Glera (Prosecco/Sparkling),21673.0,218.0,10000000,North,99.4
-723,Lombardy,2011,Pinot Grigio (White),9503.0,129.0,10000000,North,73.7
-724,Lombardy,2011,Primitivo (Red),14734.0,204.0,10000000,North,72.2
-725,Lombardy,2011,Montepulciano (Red),21131.0,232.0,10000000,North,91.1
-726,Lombardy,2012,Sangiovese (Red),14849.0,254.0,10000000,North,58.5
-727,Lombardy,2012,Nebbiolo (Red),40569.0,,10000000,North,48.4
-728,Lombardy,2012,Glera (Prosecco/Sparkling),13614.0,135.0,10000000,North,100.8
-729,Lombardy,2012,Pinot Grigio (White),26533.0,317.0,10000000,North,83.7
-730,Lombardy,2012,Primitivo (Red),20438.0,279.0,10000000,North,73.3
-731,Lombardy,2012,Montepulciano (Red),12634.0,151.0,10000000,North,83.7
-732,lombardy,2013,Sangiovese (Red),15863.0,236.0,10000000,North,67.2
-733,Lombardy,2013,Nebbiolo (Red),40385.0,813.0,10000000,North,49.7
-734,Lombardy,2013,Glera (Prosecco/Sparkling),6620.0,59.0,10000000,North,112.2
-735,Lombardy,2013,Pinot Grigio (White),19113.0,208.0,10000000,North,91.9
-736,Lombardy,2013,Primitivo (Red),20335.0,,10000000,North,66.2
-737,Lombardy,2013,Montepulciano (Red),25167.0,255.0,10000000,North,98.7
-738,Lombardy,2014,Sangiovese (Red),15293.0,251.0,10000000,North,60.9
-739,Lombardy,2014,Nebbiolo (Red),23020.0,481.0,10000000,North,47.9
-740,Lombardy,2014,Glera (Prosecco/Sparkling),24378.0,218.0,10000000,North,111.8
-741,Lombardy,2014,Pinot Grigio (White),17399.0,193.0,10000000,North,90.2
-742,Lombardy,2014,Primitivo (Red),17953.0,235.0,10000000,North,
-743,Lombardy,2014,Montepulciano (Red),16652.0,173.0,10000000,North,96.3
-744,lombardy,2015,Sangiovese (Red),9935.0,,10000000,North,58.4
-745,Lombardy,2015,Nebbiolo (Red),58130.0,1301.0,10000000,North,44.7
-746,Lombardy,2015,Glera (Prosecco/Sparkling),30663.0,,10000000,North,108.3
-747,Lombardy,2015,Pinot Grigio (White),25257.0,230.0,10000000,North,109.8
-748,Lombardy,2015,Primitivo (Red),24417.0,293.0,10000000,North,83.3
-749,Lombardy,2015,Montepulciano (Red),146205.26487885433,280.0,10000000,North,76.8
-750,Lombardy,2016,sangiovese (red),15645.0,235.0,10000000,North,66.6
-751,Lombardy,2016,Nebbiolo (Red),48299.0,1037.0,10000000,North,46.6
-752,Lombardy,2016,Glera (Prosecco/Sparkling),35667.0,341.0,10000000,North,104.6
-753,Lombardy,2016,Pinot Grigio (White),6221.0,69.0,10000000,North,90.2
-754,Lombardy,2016,Primitivo (Red),12866.0,201.0,10000000,North,64.0
-755,Lombardy,2016,Montepulciano (Red),27484.0,336.0,10000000,North,81.8
-756,lombardy,2017,Sangiovese (Red),12867.0,275.0,10000000,North,46.8
-757,Lombardy,2017,Nebbiolo (Red),39915.0,926.0,10000000,North,
-758,Lombardy,2017,Glera (Prosecco/Sparkling),19107.0,,10000000,North,104.4
-759,Lombardy,2017,Pinot Grigio (White),25992.0,304.0,10000000,North,
-760,Lombardy,2017,Primitivo (Red),13874.0,,10000000,North,79.3
-761,Lombardy,2017,Montepulciano (Red),17188.0,240.0,10000000,North,71.6
-762,Lombardy,2018,Sangiovese (Red),12166.0,191.0,10000000,North,63.7
-763,Lombardy,2018,Nebbiolo (Red),28039.0,577.0,10000000,North,48.6
-764,Lombardy,2018,Glera (Prosecco/Sparkling),29910.0,305.0,10000000,North,98.1
-765,Lombardy,2018,Pinot Grigio (White),19243.0,292.0,10000000,North,65.9
-766,Lombardy,2018,Primitivo (Red),18884.0,260.0,10000000,North,72.6
-767,Lombardy,2018,Montepulciano (Red),30245.0,347.0,10000000,North,87.2
-768,Lombardy,2019,Sangiovese (Red),20091.0,284.0,10000000,North,70.7
-769,Lombardy,2019,Nebbiolo (Red),42106.0,860.0,10000000,North,49.0
-770,Lombardy,2019,Glera (Prosecco/Sparkling),41405.0,322.0,10000000,North,128.6
-771,Lombardy,2019,Pinot Grigio (White),169963.45052617585,327.0,10000000,North,76.5
-772,Lombardy,2019,Primitivo (Red),,264.0,10000000,North,77.2
-773,Lombardy,2019,Montepulciano (Red),7488.0,99.0,10000000,North,75.6
-774,Lombardy,2020,Sangiovese (Red),12704.0,245.0,10000000,North,51.9
-775,Lombardy,2020,Nebbiolo (Red),41341.0,865.0,10000000,North,47.8
-776,Lombardy,2020,Glera (Prosecco/Sparkling),40032.0,355.0,10000000,North,112.8
-777,lombardy,2020,Pinot Grigio (White),,215.0,10000000,North,83.5
-778,Lombardy,2020,Primitivo (Red),16015.0,,10000000,North,72.1
-779,Lombardy,2020,Montepulciano (Red),24187.0,244.0,10000000,North,99.1
-780,Lombardy,2021,Sangiovese (Red),19493.0,263.0,10000000,North,74.1
-781,Lombardy,2021,Nebbiolo (Red),34375.0,658.0,10000000,North,52.2
-782,Lombardy,2021,Glera (Prosecco/Sparkling),35025.0,303.0,10000000,North,115.6
-783,Lombardy,2021,Pinot Grigio (White),22799.0,237.0,10000000,North,
-784,Lombardy,2021,Primitivo (Red),16509.0,176.0,10000000,North,93.8
-785,Lombardy,2021,Montepulciano (Red),20803.0,229.0,10000000,North,90.8
-786,Lombardy,2022,Sangiovese (Red),21467.0,330.0,10000000,North,65.1
-787,Lombardy,2022,Nebbiolo (Red),51738.0,1152.0,10000000,North,44.9
-788,lombardy,2022,Glera (Prosecco/Sparkling),16820.0,131.0,10000000,North,128.4
-789,Lombardy,2022,Pinot Grigio (White),16623.0,214.0,10000000,North,77.7
-790,Lombardy,2022,Primitivo (Red),18709.0,233.0,10000000,North,
-791,Lombardy,2022,Montepulciano (Red),20401.0,231.0,10000000,North,88.3
-792,Lombardy,2023,Sangiovese (Red),13561.0,,10000000,North,41.1
-793,Lombardy,2023,Nebbiolo (Red),36174.0,937.0,10000000,North,38.6
-794,Lombardy,2023,Glera (Prosecco/Sparkling),225444.52250121383,376.0,10000000,North,88.2
-795,Lombardy,2023,pinot grigio (white),14593.0,245.0,10000000,North,
-796,Lombardy,2023,Primitivo (Red),14121.0,292.0,10000000,North,48.4
-797,Lombardy,2023,Montepulciano (Red),14943.0,267.0,10000000,North,56.0
-798,Lombardy,2024,Sangiovese (Red),12933.0,199.0,10000000,North,65.0
-799,Lombardy,2024,Nebbiolo (Red),49216.0,,10000000,North,47.0
-800,Lombardy,2024,Glera (Prosecco/Sparkling),,214.0,10000000,North,117.3
-801,Lombardy,2024,Pinot Grigio (White),23896.0,246.0,10000000,North,97.1
-802,Lombardy,2024,Primitivo (Red),15773.0,212.0,10000000,North,74.4
-803,lombardy,2024,Montepulciano (Red),,184.0,10000000,North,88.4
-804,Lombardy,2025,sangiovese (red),19827.0,312.0,10000000,North,63.5
-805,Lombardy,2025,Nebbiolo (Red),26749.0,669.0,10000000,North,40.0
-806,Lombardy,2025,Glera (Prosecco/Sparkling),22220.0,182.0,10000000,North,122.1
-807,Lombardy,2025,pinot grigio (white),18996.0,256.0,10000000,North,74.2
-808,Lombardy,2025,Primitivo (Red),12807.0,157.0,10000000,North,81.6
-809,Lombardy,2025,Montepulciano (Red),11433.0,134.0,10000000,North,85.3
+720,Lombardy,2011,Sangiovese (Red),21097.0,297.0,10000000,,71.0
+721,lombardy,2011,Nebbiolo (Red),56529.0,1125.0,10000000,,50.2
+722,Lombardy,2011,Glera (Prosecco/Sparkling),21673.0,218.0,10000000,,99.4
+723,Lombardy,2011,Pinot Grigio (White),9503.0,129.0,10000000,,73.7
+724,Lombardy,2011,Primitivo (Red),14734.0,204.0,10000000,,72.2
+725,Lombardy,2011,Montepulciano (Red),21131.0,232.0,10000000,,91.1
+726,Lombardy,2012,Sangiovese (Red),14849.0,254.0,10000000,,58.5
+727,Lombardy,2012,Nebbiolo (Red),40569.0,,10000000,,48.4
+728,Lombardy,2012,Glera (Prosecco/Sparkling),13614.0,135.0,10000000,,100.8
+729,Lombardy,2012,Pinot Grigio (White),26533.0,317.0,10000000,,83.7
+730,Lombardy,2012,Primitivo (Red),20438.0,279.0,10000000,,73.3
+731,Lombardy,2012,Montepulciano (Red),12634.0,151.0,10000000,,83.7
+732,lombardy,2013,Sangiovese (Red),15863.0,236.0,10000000,,67.2
+733,Lombardy,2013,Nebbiolo (Red),40385.0,813.0,10000000,,49.7
+734,Lombardy,2013,Glera (Prosecco/Sparkling),6620.0,59.0,10000000,,112.2
+735,Lombardy,2013,Pinot Grigio (White),19113.0,208.0,10000000,,91.9
+736,Lombardy,2013,Primitivo (Red),20335.0,,10000000,,66.2
+737,Lombardy,2013,Montepulciano (Red),25167.0,255.0,10000000,,98.7
+738,Lombardy,2014,Sangiovese (Red),15293.0,251.0,10000000,,60.9
+739,Lombardy,2014,Nebbiolo (Red),23020.0,481.0,10000000,,47.9
+740,Lombardy,2014,Glera (Prosecco/Sparkling),24378.0,218.0,10000000,,111.8
+741,Lombardy,2014,Pinot Grigio (White),17399.0,193.0,10000000,,90.2
+742,Lombardy,2014,Primitivo (Red),17953.0,235.0,10000000,,
+743,Lombardy,2014,Montepulciano (Red),16652.0,173.0,10000000,,96.3
+744,lombardy,2015,Sangiovese (Red),9935.0,,10000000,,58.4
+745,Lombardy,2015,Nebbiolo (Red),58130.0,1301.0,10000000,,44.7
+746,Lombardy,2015,Glera (Prosecco/Sparkling),30663.0,,10000000,,108.3
+747,Lombardy,2015,Pinot Grigio (White),25257.0,230.0,10000000,,109.8
+748,Lombardy,2015,Primitivo (Red),24417.0,293.0,10000000,,83.3
+749,Lombardy,2015,Montepulciano (Red),146205.26487885433,280.0,10000000,,76.8
+750,Lombardy,2016,sangiovese (red),15645.0,235.0,10000000,,66.6
+751,Lombardy,2016,Nebbiolo (Red),48299.0,1037.0,10000000,,46.6
+752,Lombardy,2016,Glera (Prosecco/Sparkling),35667.0,341.0,10000000,,104.6
+753,Lombardy,2016,Pinot Grigio (White),6221.0,69.0,10000000,,90.2
+754,Lombardy,2016,Primitivo (Red),12866.0,201.0,10000000,,64.0
+755,Lombardy,2016,Montepulciano (Red),27484.0,336.0,10000000,,81.8
+756,lombardy,2017,Sangiovese (Red),12867.0,275.0,10000000,,46.8
+757,Lombardy,2017,Nebbiolo (Red),39915.0,926.0,10000000,,
+758,Lombardy,2017,Glera (Prosecco/Sparkling),19107.0,,10000000,,104.4
+759,Lombardy,2017,Pinot Grigio (White),25992.0,304.0,10000000,,
+760,Lombardy,2017,Primitivo (Red),13874.0,,10000000,,79.3
+761,Lombardy,2017,Montepulciano (Red),17188.0,240.0,10000000,,71.6
+762,Lombardy,2018,Sangiovese (Red),12166.0,191.0,10000000,,63.7
+763,Lombardy,2018,Nebbiolo (Red),28039.0,577.0,10000000,,48.6
+764,Lombardy,2018,Glera (Prosecco/Sparkling),29910.0,305.0,10000000,,98.1
+765,Lombardy,2018,Pinot Grigio (White),19243.0,292.0,10000000,,65.9
+766,Lombardy,2018,Primitivo (Red),18884.0,260.0,10000000,,72.6
+767,Lombardy,2018,Montepulciano (Red),30245.0,347.0,10000000,,87.2
+768,Lombardy,2019,Sangiovese (Red),20091.0,284.0,10000000,,70.7
+769,Lombardy,2019,Nebbiolo (Red),42106.0,860.0,10000000,,49.0
+770,Lombardy,2019,Glera (Prosecco/Sparkling),41405.0,322.0,10000000,,128.6
+771,Lombardy,2019,Pinot Grigio (White),169963.45052617585,327.0,10000000,,76.5
+772,Lombardy,2019,Primitivo (Red),,264.0,10000000,,77.2
+773,Lombardy,2019,Montepulciano (Red),7488.0,99.0,10000000,,75.6
+774,Lombardy,2020,Sangiovese (Red),12704.0,245.0,10000000,,51.9
+775,Lombardy,2020,Nebbiolo (Red),41341.0,865.0,10000000,,47.8
+776,Lombardy,2020,Glera (Prosecco/Sparkling),40032.0,355.0,10000000,,112.8
+777,lombardy,2020,Pinot Grigio (White),,215.0,10000000,,83.5
+778,Lombardy,2020,Primitivo (Red),16015.0,,10000000,,72.1
+779,Lombardy,2020,Montepulciano (Red),24187.0,244.0,10000000,,99.1
+780,Lombardy,2021,Sangiovese (Red),19493.0,263.0,10000000,,74.1
+781,Lombardy,2021,Nebbiolo (Red),34375.0,658.0,10000000,,52.2
+782,Lombardy,2021,Glera (Prosecco/Sparkling),35025.0,303.0,10000000,,115.6
+783,Lombardy,2021,Pinot Grigio (White),22799.0,237.0,10000000,,
+784,Lombardy,2021,Primitivo (Red),16509.0,176.0,10000000,,93.8
+785,Lombardy,2021,Montepulciano (Red),20803.0,229.0,10000000,,90.8
+786,Lombardy,2022,Sangiovese (Red),21467.0,330.0,10000000,,65.1
+787,Lombardy,2022,Nebbiolo (Red),51738.0,1152.0,10000000,,44.9
+788,lombardy,2022,Glera (Prosecco/Sparkling),16820.0,131.0,10000000,,128.4
+789,Lombardy,2022,Pinot Grigio (White),16623.0,214.0,10000000,,77.7
+790,Lombardy,2022,Primitivo (Red),18709.0,233.0,10000000,,
+791,Lombardy,2022,Montepulciano (Red),20401.0,231.0,10000000,,88.3
+792,Lombardy,2023,Sangiovese (Red),13561.0,,10000000,,41.1
+793,Lombardy,2023,Nebbiolo (Red),36174.0,937.0,10000000,,38.6
+794,Lombardy,2023,Glera (Prosecco/Sparkling),225444.52250121383,376.0,10000000,,88.2
+795,Lombardy,2023,pinot grigio (white),14593.0,245.0,10000000,,
+796,Lombardy,2023,Primitivo (Red),14121.0,292.0,10000000,,48.4
+797,Lombardy,2023,Montepulciano (Red),14943.0,267.0,10000000,,56.0
+798,Lombardy,2024,Sangiovese (Red),12933.0,199.0,10000000,,65.0
+799,Lombardy,2024,Nebbiolo (Red),49216.0,,10000000,,47.0
+800,Lombardy,2024,Glera (Prosecco/Sparkling),,214.0,10000000,,117.3
+801,Lombardy,2024,Pinot Grigio (White),23896.0,246.0,10000000,,97.1
+802,Lombardy,2024,Primitivo (Red),15773.0,212.0,10000000,,74.4
+803,lombardy,2024,Montepulciano (Red),,184.0,10000000,,88.4
+804,Lombardy,2025,sangiovese (red),19827.0,312.0,10000000,,63.5
+805,Lombardy,2025,Nebbiolo (Red),26749.0,669.0,10000000,,40.0
+806,Lombardy,2025,Glera (Prosecco/Sparkling),22220.0,182.0,10000000,,122.1
+807,Lombardy,2025,pinot grigio (white),18996.0,256.0,10000000,,74.2
+808,Lombardy,2025,Primitivo (Red),12807.0,157.0,10000000,,81.6
+809,Lombardy,2025,Montepulciano (Red),11433.0,134.0,10000000,,85.3
 810,Marche,2011,Sangiovese (Red),207030.0,2937.0,1500000,Center,70.5
 811,Marche,2011,Nebbiolo (Red),7181.0,124.0,1500000,Center,57.9
 812,Marche,2011,Glera (Prosecco/Sparkling),29815.0,268.0,1500000,Center,
@@ -989,456 +989,456 @@
 987,Molise,2025,Pinot Grigio (White),19245.76137105678,32.0,290000,South,
 988,Molise,2025,primitivo (red),2418.0,30.0,290000,South,80.6
 989,Molise,2025,Montepulciano (Red),52445.0,602.0,290000,South,
-990,Piedmont,2011,Sangiovese (Red),35488.0,592.0,4200000,North,59.9
-991,Piedmont,2011,Nebbiolo (Red),407888.0,8432.0,4200000,North,48.4
-992,Piedmont,2011,Glera (Prosecco/Sparkling),45102.0,419.0,4200000,North,107.6
-993,Piedmont,2011,Pinot Grigio (White),48310.0,,4200000,North,93.1
-994,Piedmont,2011,Primitivo (Red),26014.0,381.0,4200000,North,68.3
-995,Piedmont,2011,Montepulciano (Red),28452.0,365.0,4200000,North,78.0
-996,Piedmont,2012,Sangiovese (Red),22579.0,360.0,4200000,North,62.7
-997,piedmont,2012,Nebbiolo (Red),220251.0,4821.0,4200000,North,45.7
-998,Piedmont,2012,Glera (Prosecco/Sparkling),28371.0,291.0,4200000,North,97.5
-999,Piedmont,2012,pinot grigio (white),32500.0,,4200000,North,84.2
-1000,Piedmont,2012,Primitivo (Red),28124.0,367.0,4200000,North,76.6
-1001,Piedmont,2012,Montepulciano (Red),34003.0,385.0,4200000,North,
-1002,Piedmont,2013,Sangiovese (Red),24391.0,419.0,4200000,North,58.2
-1003,Piedmont,2013,Nebbiolo (Red),485561.0,,4200000,North,49.4
-1004,Piedmont,2013,Glera (Prosecco/Sparkling),412975.1669342335,427.0,4200000,North,142.3
-1005,Piedmont,2013,Pinot Grigio (White),27583.0,282.0,4200000,North,97.8
-1006,Piedmont,2013,Primitivo (Red),27946.0,414.0,4200000,North,67.5
-1007,Piedmont,2013,Montepulciano (Red),19955.0,323.0,4200000,North,61.8
-1008,Piedmont,2014,Sangiovese (Red),48414.0,677.0,4200000,North,
-1009,Piedmont,2014,Nebbiolo (Red),372218.0,7154.0,4200000,North,52.0
-1010,Piedmont,2014,Glera (Prosecco/Sparkling),,384.0,4200000,North,
-1011,Piedmont,2014,Pinot Grigio (White),55872.0,626.0,4200000,North,89.3
-1012,Piedmont,2014,Primitivo (Red),41761.0,561.0,4200000,North,74.4
-1013,Piedmont,2014,Montepulciano (Red),37740.0,395.0,4200000,North,95.5
-1014,piedmont,2015,Sangiovese (Red),35549.0,566.0,4200000,North,62.8
-1015,Piedmont,2015,Nebbiolo (Red),357662.0,8572.0,4200000,North,41.7
-1016,Piedmont,2015,Glera (Prosecco/Sparkling),69935.0,,4200000,North,108.1
-1017,Piedmont,2015,Pinot Grigio (White),21305.0,216.0,4200000,North,98.6
-1018,Piedmont,2015,Primitivo (Red),28263.0,434.0,4200000,North,65.1
-1019,piedmont,2015,Montepulciano (Red),24756.0,318.0,4200000,North,77.8
-1020,Piedmont,2016,Sangiovese (Red),200653.3722605305,,4200000,North,
-1021,Piedmont,2016,Nebbiolo (Red),375585.0,7478.0,4200000,North,50.2
-1022,piedmont,2016,Glera (Prosecco/Sparkling),78296.0,754.0,4200000,North,103.8
-1023,Piedmont,2016,Pinot Grigio (White),39470.0,484.0,4200000,North,81.5
-1024,Piedmont,2016,Primitivo (Red),31265.0,394.0,4200000,North,79.4
-1025,Piedmont,2016,Montepulciano (Red),30666.0,392.0,4200000,North,78.2
-1026,Piedmont,2017,Sangiovese (Red),15276.0,313.0,4200000,North,48.8
-1027,Piedmont,2017,Nebbiolo (Red),376450.0,8723.0,4200000,North,43.2
-1028,Piedmont,2017,Glera (Prosecco/Sparkling),49549.0,495.0,4200000,North,100.1
-1029,Piedmont,2017,Pinot Grigio (White),26921.0,360.0,4200000,North,74.8
-1030,Piedmont,2017,Primitivo (Red),18658.0,319.0,4200000,North,58.5
-1031,Piedmont,2017,Montepulciano (Red),35177.0,429.0,4200000,North,82.0
-1032,Piedmont,2018,Sangiovese (Red),25542.0,372.0,4200000,North,68.7
-1033,Piedmont,2018,Nebbiolo (Red),530229.0,12934.0,4200000,North,41.0
-1034,Piedmont,2018,Glera (Prosecco/Sparkling),69536.0,549.0,4200000,North,
-1035,Piedmont,2018,Pinot Grigio (White),29508.0,374.0,4200000,North,78.9
-1036,Piedmont,2018,Primitivo (Red),40392.0,525.0,4200000,North,76.9
-1037,Piedmont,2018,Montepulciano (Red),28396.0,334.0,4200000,North,85.0
-1038,Piedmont,2019,Sangiovese (Red),17729.0,225.0,4200000,North,78.8
-1039,Piedmont,2019,Nebbiolo (Red),204938.0,,4200000,North,46.5
-1040,Piedmont,2019,Glera (Prosecco/Sparkling),59256.0,520.0,4200000,North,114.0
-1041,Piedmont,2019,Pinot Grigio (White),28827.0,341.0,4200000,North,84.5
-1042,Piedmont,2019,Primitivo (Red),35388.0,410.0,4200000,North,86.3
-1043,Piedmont,2019,Montepulciano (Red),246287.3015001655,450.0,4200000,North,80.5
-1044,Piedmont,2020,Sangiovese (Red),44601.0,559.0,4200000,North,79.8
-1045,Piedmont,2020,Nebbiolo (Red),283626.0,6013.0,4200000,North,47.2
-1046,Piedmont,2020,Glera (Prosecco/Sparkling),80603.0,642.0,4200000,North,125.5
-1047,Piedmont,2020,Pinot Grigio (White),25568.0,328.0,4200000,North,
-1048,Piedmont,2020,Primitivo (Red),37785.0,489.0,4200000,North,77.3
-1049,Piedmont,2020,Montepulciano (Red),37581.0,534.0,4200000,North,70.4
-1050,Piedmont,2021,Sangiovese (Red),35770.0,583.0,4200000,North,61.4
-1051,Piedmont,2021,Nebbiolo (Red),415165.0,,4200000,North,50.7
-1052,Piedmont,2021,glera (prosecco/sparkling),101499.0,795.0,4200000,North,
-1053,Piedmont,2021,Pinot Grigio (White),22621.0,,4200000,North,77.2
-1054,Piedmont,2021,Primitivo (Red),17938.0,251.0,4200000,North,
-1055,Piedmont,2021,Montepulciano (Red),30923.0,421.0,4200000,North,73.5
-1056,Piedmont,2022,Sangiovese (Red),24671.0,442.0,4200000,North,55.8
-1057,Piedmont,2022,Nebbiolo (Red),393965.0,7813.0,4200000,North,50.4
-1058,Piedmont,2022,glera (prosecco/sparkling),52813.0,584.0,4200000,North,90.4
-1059,Piedmont,2022,Pinot Grigio (White),52810.0,538.0,4200000,North,98.2
-1060,Piedmont,2022,Primitivo (Red),29848.0,329.0,4200000,North,
-1061,Piedmont,2022,montepulciano (red),38649.0,425.0,4200000,North,90.9
-1062,Piedmont,2023,Sangiovese (Red),104730.37729143926,327.0,4200000,North,47.1
-1063,Piedmont,2023,Nebbiolo (Red),193531.0,6679.0,4200000,North,29.0
-1064,Piedmont,2023,Glera (Prosecco/Sparkling),52751.0,650.0,4200000,North,81.2
-1065,Piedmont,2023,Pinot Grigio (White),22199.0,415.0,4200000,North,53.5
-1066,Piedmont,2023,Primitivo (Red),21029.0,270.0,4200000,North,77.9
-1067,Piedmont,2023,Montepulciano (Red),28377.0,,4200000,North,57.9
-1068,Piedmont,2024,Sangiovese (Red),34762.0,597.0,4200000,North,58.2
-1069,Piedmont,2024,nebbiolo (red),657488.0,12632.0,4200000,North,
-1070,Piedmont,2024,Glera (Prosecco/Sparkling),30922.0,,4200000,North,98.5
-1071,Piedmont,2024,Pinot Grigio (White),42968.0,452.0,4200000,North,95.1
-1072,piedmont,2024,Primitivo (Red),28141.0,291.0,4200000,North,96.7
-1073,Piedmont,2024,Montepulciano (Red),37382.0,478.0,4200000,North,78.2
-1074,Piedmont,2025,Sangiovese (Red),28486.0,450.0,4200000,North,63.3
-1075,Piedmont,2025,Nebbiolo (Red),247275.0,,4200000,North,50.9
-1076,Piedmont,2025,Glera (Prosecco/Sparkling),28108.0,282.0,4200000,North,99.7
-1077,Piedmont,2025,Pinot Grigio (White),39142.0,450.0,4200000,North,87.0
-1078,Piedmont,2025,Primitivo (Red),29978.0,476.0,4200000,North,63.0
-1079,Piedmont,2025,Montepulciano (Red),23726.0,249.0,4200000,North,95.3
-1080,Apulia,2011,Sangiovese (Red),42944.0,568.0,3900000,South,75.6
-1081,Apulia,2011,Nebbiolo (Red),33873.0,746.0,3900000,South,45.4
-1082,Apulia,2011,Glera (Prosecco/Sparkling),30177.0,,3900000,South,76.0
-1083,Apulia,2011,Pinot Grigio (White),42188.0,548.0,3900000,South,77.0
-1084,Apulia,2011,Primitivo (Red),774955.0,,3900000,South,85.4
-1085,Apulia,2011,Montepulciano (Red),762070.0,9167.0,3900000,South,83.1
-1086,Apulia,2012,Sangiovese (Red),43351.0,632.0,3900000,South,68.6
-1087,apulia,2012,Nebbiolo (Red),26531.0,584.0,3900000,South,45.4
-1088,Apulia,2012,Glera (Prosecco/Sparkling),71695.0,730.0,3900000,South,98.2
-1089,Apulia,2012,Pinot Grigio (White),74472.0,784.0,3900000,South,95.0
-1090,Apulia,2012,Primitivo (Red),579199.0,7919.0,3900000,South,73.1
-1091,Apulia,2012,Montepulciano (Red),773636.0,8608.0,3900000,South,89.9
-1092,Apulia,2013,Sangiovese (Red),33680.0,693.0,3900000,South,48.6
-1093,Apulia,2013,Nebbiolo (Red),33843.0,675.0,3900000,South,50.1
-1094,Apulia,2013,Glera (Prosecco/Sparkling),36839.0,,3900000,South,101.5
-1095,Apulia,2013,Pinot Grigio (White),32819.0,455.0,3900000,South,72.1
-1096,Apulia,2013,Primitivo (Red),660742.0,,3900000,South,76.8
-1097,Apulia,2013,Montepulciano (Red),707860.0,8685.0,3900000,South,81.5
-1098,Apulia,2014,Sangiovese (Red),33238.0,547.0,3900000,South,60.8
-1099,Apulia,2014,Nebbiolo (Red),,,3900000,South,53.1
-1100,Apulia,2014,Glera (Prosecco/Sparkling),103828.0,942.0,3900000,South,110.2
-1101,Apulia,2014,Pinot Grigio (White),61995.0,709.0,3900000,South,87.4
-1102,Apulia,2014,Primitivo (Red),897966.0,11054.0,3900000,South,81.2
-1103,Apulia,2014,Montepulciano (Red),982060.0,12371.0,3900000,South,79.4
-1104,Apulia,2015,Sangiovese (Red),40726.0,512.0,3900000,South,79.5
-1105,Apulia,2015,Nebbiolo (Red),29227.0,592.0,3900000,South,49.4
-1106,Apulia,2015,Glera (Prosecco/Sparkling),85885.0,,3900000,South,111.7
-1107,Apulia,2015,Pinot Grigio (White),59221.0,674.0,3900000,South,87.9
-1108,Apulia,2015,Primitivo (Red),866928.0,,3900000,South,86.0
-1109,Apulia,2015,Montepulciano (Red),683374.0,10146.0,3900000,South,67.4
-1110,Apulia,2016,Sangiovese (Red),41834.0,612.0,3900000,South,68.4
-1111,Apulia,2016,Nebbiolo (Red),241503.04443617398,,3900000,South,42.1
-1112,Apulia,2016,Glera (Prosecco/Sparkling),96841.0,828.0,3900000,South,117.0
-1113,Apulia,2016,Pinot Grigio (White),54580.0,630.0,3900000,South,86.6
-1114,Apulia,2016,Primitivo (Red),709752.0,9070.0,3900000,South,78.3
-1115,Apulia,2016,Montepulciano (Red),693884.0,9443.0,3900000,South,73.5
-1116,Apulia,2017,Sangiovese (Red),26857.0,656.0,3900000,South,40.9
-1117,Apulia,2017,Nebbiolo (Red),21416.0,541.0,3900000,South,39.6
-1118,Apulia,2017,Glera (Prosecco/Sparkling),79460.0,814.0,3900000,South,97.6
-1119,Apulia,2017,Pinot Grigio (White),32165.0,428.0,3900000,South,
-1120,Apulia,2017,Primitivo (Red),953260.0,12006.0,3900000,South,79.4
-1121,Apulia,2017,Montepulciano (Red),595919.0,,3900000,South,68.0
-1122,Apulia,2018,Sangiovese (Red),37373.0,527.0,3900000,South,70.9
-1123,Apulia,2018,Nebbiolo (Red),27194.0,599.0,3900000,South,
-1124,Apulia,2018,Glera (Prosecco/Sparkling),531202.0421363079,744.0,3900000,South,105.1
-1125,Apulia,2018,Pinot Grigio (White),45220.0,452.0,3900000,South,100.0
-1126,Apulia,2018,Primitivo (Red),560181.0,6333.0,3900000,South,88.5
-1127,Apulia,2018,Montepulciano (Red),469631.0,5312.0,3900000,South,88.4
-1128,Apulia,2019,sangiovese (red),41109.0,654.0,3900000,South,62.9
-1129,Apulia,2019,Nebbiolo (Red),24029.0,497.0,3900000,South,48.3
-1130,Apulia,2019,Glera (Prosecco/Sparkling),98063.0,848.0,3900000,South,115.6
-1131,Apulia,2019,Pinot Grigio (White),63806.0,755.0,3900000,South,84.5
-1132,Apulia,2019,Primitivo (Red),,9595.0,3900000,South,66.9
-1133,Apulia,2019,Montepulciano (Red),739974.0,9579.0,3900000,South,77.2
-1134,Apulia,2020,Sangiovese (Red),9796.0,158.0,3900000,South,62.0
-1135,Apulia,2020,Nebbiolo (Red),23605.0,653.0,3900000,South,36.1
-1136,Apulia,2020,Glera (Prosecco/Sparkling),129115.0,1135.0,3900000,South,113.8
-1137,Apulia,2020,Pinot Grigio (White),48301.0,547.0,3900000,South,88.3
-1138,Apulia,2020,Primitivo (Red),445258.0,7517.0,3900000,South,59.2
-1139,Apulia,2020,Montepulciano (Red),898446.0,11759.0,3900000,South,76.4
-1140,Apulia,2021,Sangiovese (Red),30833.0,433.0,3900000,South,71.2
-1141,Apulia,2021,Nebbiolo (Red),26699.0,523.0,3900000,South,
-1142,Apulia,2021,Glera (Prosecco/Sparkling),55111.0,530.0,3900000,South,104.0
-1143,Apulia,2021,Pinot Grigio (White),,721.0,3900000,South,99.7
-1144,Apulia,2021,Primitivo (Red),557241.0,7737.0,3900000,South,72.0
-1145,Apulia,2021,Montepulciano (Red),853198.0,,3900000,South,73.6
-1146,Apulia,2022,Sangiovese (Red),62674.0,787.0,3900000,South,79.6
-1147,Apulia,2022,Nebbiolo (Red),22194.0,571.0,3900000,South,38.9
-1148,Apulia,2022,Glera (Prosecco/Sparkling),42146.0,482.0,3900000,South,87.4
-1149,apulia,2022,Pinot Grigio (White),66770.0,725.0,3900000,South,92.1
-1150,Apulia,2022,Primitivo (Red),895655.0,,3900000,South,78.8
-1151,Apulia,2022,Montepulciano (Red),977611.0,11115.0,3900000,South,88.0
-1152,Apulia,2023,Sangiovese (Red),22406.0,481.0,3900000,South,46.6
-1153,Apulia,2023,Nebbiolo (Red),23053.0,633.0,3900000,South,36.4
-1154,Apulia,2023,Glera (Prosecco/Sparkling),89397.0,,3900000,South,93.4
-1155,Apulia,2023,Pinot Grigio (White),66663.0,750.0,3900000,South,88.9
-1156,Apulia,2023,Primitivo (Red),905134.0,11904.0,3900000,South,76.0
-1157,Apulia,2023,Montepulciano (Red),631110.0,10459.0,3900000,South,60.3
-1158,Apulia,2024,sangiovese (red),32190.0,453.0,3900000,South,71.1
-1159,Apulia,2024,Nebbiolo (Red),22475.0,436.0,3900000,South,51.5
-1160,apulia,2024,Glera (Prosecco/Sparkling),91079.0,928.0,3900000,South,98.1
-1161,Apulia,2024,Pinot Grigio (White),41586.0,604.0,3900000,South,68.9
-1162,Apulia,2024,Primitivo (Red),468049.0,8245.0,3900000,South,56.8
-1163,Apulia,2024,Montepulciano (Red),635535.0,7771.0,3900000,South,81.8
-1164,Apulia,2025,Sangiovese (Red),35569.0,443.0,3900000,South,80.3
-1165,Apulia,2025,Nebbiolo (Red),23352.0,535.0,3900000,South,43.6
-1166,Apulia,2025,Glera (Prosecco/Sparkling),104036.0,858.0,3900000,South,
-1167,Apulia,2025,Pinot Grigio (White),39962.0,444.0,3900000,South,90.0
-1168,Apulia,2025,Primitivo (Red),544448.0,6441.0,3900000,South,84.5
-1169,Apulia,2025,Montepulciano (Red),565647.0,6881.0,3900000,South,82.2
-1170,Sardinia,2011,sangiovese (red),8773.0,175.0,1600000,Islands,
-1171,Sardinia,2011,Nebbiolo (Red),8289.0,,1600000,Islands,48.8
-1172,Sardinia,2011,Glera (Prosecco/Sparkling),18666.0,167.0,1600000,Islands,111.8
-1173,Sardinia,2011,Pinot Grigio (White),102052.82433233038,191.0,1600000,Islands,78.6
-1174,Sardinia,2011,Primitivo (Red),11840.0,157.0,1600000,Islands,75.4
-1175,Sardinia,2011,Montepulciano (Red),15089.0,208.0,1600000,Islands,72.5
-1176,Sardinia,2012,Sangiovese (Red),7065.0,114.0,1600000,Islands,62.0
-1177,Sardinia,2012,Nebbiolo (Red),6278.0,127.0,1600000,Islands,49.4
-1178,sardinia,2012,Glera (Prosecco/Sparkling),21357.0,180.0,1600000,Islands,118.6
-1179,Sardinia,2012,Pinot Grigio (White),7994.0,97.0,1600000,Islands,82.4
-1180,Sardinia,2012,Primitivo (Red),17146.0,225.0,1600000,Islands,76.2
-1181,Sardinia,2012,Montepulciano (Red),19039.0,169.0,1600000,Islands,112.7
-1182,Sardinia,2013,Sangiovese (Red),5400.0,75.0,1600000,Islands,72.0
-1183,sardinia,2013,Nebbiolo (Red),4277.0,95.0,1600000,Islands,45.0
-1184,Sardinia,2013,Glera (Prosecco/Sparkling),,,1600000,Islands,106.5
-1185,Sardinia,2013,Pinot Grigio (White),,159.0,1600000,Islands,92.7
-1186,Sardinia,2013,Primitivo (Red),15842.0,203.0,1600000,Islands,
-1187,Sardinia,2013,Montepulciano (Red),8996.0,131.0,1600000,Islands,68.7
-1188,Sardinia,2014,Sangiovese (Red),7780.0,105.0,1600000,Islands,74.1
-1189,Sardinia,2014,Nebbiolo (Red),6204.0,125.0,1600000,Islands,49.6
-1190,Sardinia,2014,Glera (Prosecco/Sparkling),26265.0,214.0,1600000,Islands,122.7
-1191,Sardinia,2014,Pinot Grigio (White),16839.0,167.0,1600000,Islands,100.8
-1192,Sardinia,2014,primitivo (red),8062.0,102.0,1600000,Islands,79.0
-1193,Sardinia,2014,Montepulciano (Red),66170.896352394,144.0,1600000,Islands,
-1194,Sardinia,2015,Sangiovese (Red),9156.0,134.0,1600000,Islands,
-1195,Sardinia,2015,Nebbiolo (Red),11824.0,264.0,1600000,Islands,44.8
-1196,Sardinia,2015,Glera (Prosecco/Sparkling),16756.0,169.0,1600000,Islands,99.1
-1197,Sardinia,2015,Pinot Grigio (White),15304.0,198.0,1600000,Islands,77.3
-1198,Sardinia,2015,Primitivo (Red),11499.0,165.0,1600000,Islands,69.7
-1199,Sardinia,2015,Montepulciano (Red),9572.0,129.0,1600000,Islands,74.2
-1200,Sardinia,2016,Sangiovese (Red),15101.0,217.0,1600000,Islands,69.6
-1201,Sardinia,2016,Nebbiolo (Red),7646.0,130.0,1600000,Islands,58.8
-1202,Sardinia,2016,Glera (Prosecco/Sparkling),31047.0,236.0,1600000,Islands,131.6
-1203,Sardinia,2016,Pinot Grigio (White),13443.0,152.0,1600000,Islands,88.4
-1204,Sardinia,2016,Primitivo (Red),10586.0,123.0,1600000,Islands,86.1
-1205,Sardinia,2016,Montepulciano (Red),17030.0,215.0,1600000,Islands,79.2
-1206,Sardinia,2017,Sangiovese (Red),9700.0,177.0,1600000,Islands,54.8
-1207,Sardinia,2017,Nebbiolo (Red),6695.0,184.0,1600000,Islands,
-1208,Sardinia,2017,Glera (Prosecco/Sparkling),16485.0,178.0,1600000,Islands,
-1209,Sardinia,2017,Pinot Grigio (White),8770.0,113.0,1600000,Islands,77.6
-1210,Sardinia,2017,Primitivo (Red),5177.0,105.0,1600000,Islands,49.3
-1211,Sardinia,2017,Montepulciano (Red),12239.0,148.0,1600000,Islands,82.7
-1212,Sardinia,2018,Sangiovese (Red),10884.0,135.0,1600000,Islands,80.6
-1213,Sardinia,2018,Nebbiolo (Red),9200.0,182.0,1600000,Islands,50.5
-1214,Sardinia,2018,Glera (Prosecco/Sparkling),20661.0,216.0,1600000,Islands,95.7
-1215,Sardinia,2018,Pinot Grigio (White),60591.52838430163,85.0,1600000,Islands,
-1216,Sardinia,2018,primitivo (red),9152.0,138.0,1600000,Islands,66.3
-1217,Sardinia,2018,Montepulciano (Red),10552.0,115.0,1600000,Islands,
-1218,Sardinia,2019,Sangiovese (Red),19674.0,264.0,1600000,Islands,74.5
-1219,Sardinia,2019,Nebbiolo (Red),4786.0,91.0,1600000,Islands,52.6
-1220,Sardinia,2019,Glera (Prosecco/Sparkling),19303.0,174.0,1600000,Islands,110.9
-1221,Sardinia,2019,Pinot Grigio (White),14215.0,145.0,1600000,Islands,
-1222,Sardinia,2019,Primitivo (Red),11445.0,154.0,1600000,Islands,74.3
-1223,Sardinia,2019,Montepulciano (Red),12228.0,141.0,1600000,Islands,86.7
-1224,Sardinia,2020,Sangiovese (Red),14767.0,192.0,1600000,Islands,76.9
-1225,Sardinia,2020,Nebbiolo (Red),7102.0,162.0,1600000,Islands,43.8
-1226,Sardinia,2020,Glera (Prosecco/Sparkling),26989.0,231.0,1600000,Islands,116.8
-1227,Sardinia,2020,Pinot Grigio (White),13507.0,,1600000,Islands,81.9
-1228,Sardinia,2020,Primitivo (Red),9397.0,180.0,1600000,Islands,52.2
-1229,Sardinia,2020,Montepulciano (Red),14894.0,166.0,1600000,Islands,89.7
-1230,Sardinia,2021,Sangiovese (Red),8092.0,131.0,1600000,Islands,61.8
-1231,Sardinia,2021,Nebbiolo (Red),5509.0,99.0,1600000,Islands,55.6
-1232,Sardinia,2021,Glera (Prosecco/Sparkling),28685.0,255.0,1600000,Islands,112.5
-1233,Sardinia,2021,Pinot Grigio (White),10117.0,134.0,1600000,Islands,75.5
-1234,Sardinia,2021,Primitivo (Red),14177.0,180.0,1600000,Islands,78.8
-1235,Sardinia,2021,Montepulciano (Red),16437.0,207.0,1600000,Islands,79.4
-1236,Sardinia,2022,Sangiovese (Red),13802.0,187.0,1600000,Islands,73.8
-1237,Sardinia,2022,Nebbiolo (Red),,108.0,1600000,Islands,56.7
-1238,Sardinia,2022,Glera (Prosecco/Sparkling),38493.0,319.0,1600000,Islands,120.7
-1239,Sardinia,2022,Pinot Grigio (White),20886.0,191.0,1600000,Islands,109.4
-1240,Sardinia,2022,Primitivo (Red),12088.0,174.0,1600000,Islands,69.5
-1241,Sardinia,2022,Montepulciano (Red),8718.0,101.0,1600000,Islands,86.3
-1242,Sardinia,2023,Sangiovese (Red),6606.0,145.0,1600000,Islands,45.6
-1243,Sardinia,2023,Nebbiolo (Red),4849.0,136.0,1600000,Islands,35.7
-1244,Sardinia,2023,Glera (Prosecco/Sparkling),16985.0,209.0,1600000,Islands,81.3
-1245,Sardinia,2023,Pinot Grigio (White),4734.0,69.0,1600000,Islands,68.6
-1246,Sardinia,2023,Primitivo (Red),7220.0,146.0,1600000,Islands,49.5
-1247,Sardinia,2023,Montepulciano (Red),,167.0,1600000,Islands,60.7
-1248,Sardinia,2024,Sangiovese (Red),13247.0,181.0,1600000,Islands,73.2
-1249,Sardinia,2024,Nebbiolo (Red),11267.0,221.0,1600000,Islands,51.0
-1250,Sardinia,2024,Glera (Prosecco/Sparkling),19112.0,178.0,1600000,Islands,107.4
-1251,Sardinia,2024,Pinot Grigio (White),8298.0,91.0,1600000,Islands,91.2
-1252,sardinia,2024,Primitivo (Red),10200.0,182.0,1600000,Islands,56.0
-1253,Sardinia,2024,Montepulciano (Red),11810.0,115.0,1600000,Islands,102.7
-1254,Sardinia,2025,Sangiovese (Red),9028.0,140.0,1600000,Islands,64.5
-1255,sardinia,2025,Nebbiolo (Red),8641.0,,1600000,Islands,50.5
-1256,Sardinia,2025,Glera (Prosecco/Sparkling),14260.0,157.0,1600000,Islands,
-1257,Sardinia,2025,Pinot Grigio (White),18674.0,,1600000,Islands,100.4
-1258,Sardinia,2025,Primitivo (Red),13123.0,176.0,1600000,Islands,74.6
-1259,Sardinia,2025,Montepulciano (Red),9416.0,131.0,1600000,Islands,71.9
-1260,Sicily,2011,Sangiovese (Red),34994.0,535.0,4800000,Islands,65.4
-1261,Sicily,2011,Nebbiolo (Red),14966.0,379.0,4800000,Islands,
-1262,Sicily,2011,Glera (Prosecco/Sparkling),63090.0,609.0,4800000,Islands,103.6
-1263,Sicily,2011,Pinot Grigio (White),51829.0,489.0,4800000,Islands,106.0
-1264,sicily,2011,Primitivo (Red),52799.0,666.0,4800000,Islands,79.3
-1265,Sicily,2011,Montepulciano (Red),43922.0,540.0,4800000,Islands,
-1266,Sicily,2012,Sangiovese (Red),34220.0,,4800000,Islands,47.3
-1267,Sicily,2012,Nebbiolo (Red),25888.0,539.0,4800000,Islands,48.0
-1268,Sicily,2012,Glera (Prosecco/Sparkling),50913.0,393.0,4800000,Islands,129.5
-1269,Sicily,2012,Pinot Grigio (White),,,4800000,Islands,78.3
-1270,Sicily,2012,Primitivo (Red),20251.0,309.0,4800000,Islands,65.5
-1271,Sicily,2012,Montepulciano (Red),34353.0,392.0,4800000,Islands,
-1272,Sicily,2013,Sangiovese (Red),62437.0,803.0,4800000,Islands,77.8
-1273,Sicily,2013,Nebbiolo (Red),33076.0,737.0,4800000,Islands,44.9
-1274,Sicily,2013,Glera (Prosecco/Sparkling),67173.0,692.0,4800000,Islands,97.1
-1275,Sicily,2013,Pinot Grigio (White),65454.0,666.0,4800000,Islands,
-1276,Sicily,2013,Primitivo (Red),28750.0,,4800000,Islands,74.7
-1277,Sicily,2013,Montepulciano (Red),57259.0,815.0,4800000,Islands,70.3
-1278,Sicily,2014,Sangiovese (Red),20458.0,316.0,4800000,Islands,64.7
-1279,Sicily,2014,Nebbiolo (Red),28597.0,619.0,4800000,Islands,46.2
-1280,Sicily,2014,Glera (Prosecco/Sparkling),47110.0,499.0,4800000,Islands,94.4
-1281,Sicily,2014,Pinot Grigio (White),74062.0,666.0,4800000,Islands,111.2
-1282,Sicily,2014,Primitivo (Red),49203.0,652.0,4800000,Islands,75.5
-1283,Sicily,2014,Montepulciano (Red),,704.0,4800000,Islands,86.8
-1284,Sicily,2015,Sangiovese (Red),41069.0,544.0,4800000,Islands,75.5
-1285,Sicily,2015,Nebbiolo (Red),28308.0,543.0,4800000,Islands,52.1
-1286,Sicily,2015,Glera (Prosecco/Sparkling),,421.0,4800000,Islands,102.3
-1287,sicily,2015,Pinot Grigio (White),46143.0,644.0,4800000,Islands,71.7
-1288,Sicily,2015,Primitivo (Red),48571.0,759.0,4800000,Islands,64.0
-1289,Sicily,2015,Montepulciano (Red),28876.0,336.0,4800000,Islands,85.9
-1290,Sicily,2016,Sangiovese (Red),40931.0,662.0,4800000,Islands,61.8
-1291,Sicily,2016,Nebbiolo (Red),289807.73081522464,791.0,4800000,Islands,53.9
-1292,Sicily,2016,Glera (Prosecco/Sparkling),113463.0,1230.0,4800000,Islands,92.2
-1293,Sicily,2016,Pinot Grigio (White),63380.0,689.0,4800000,Islands,92.0
-1294,Sicily,2016,Primitivo (Red),38249.0,455.0,4800000,Islands,84.1
-1295,Sicily,2016,Montepulciano (Red),44038.0,492.0,4800000,Islands,89.5
-1296,Sicily,2017,Sangiovese (Red),,802.0,4800000,Islands,
-1297,Sicily,2017,Nebbiolo (Red),29159.0,645.0,4800000,Islands,45.2
-1298,Sicily,2017,Glera (Prosecco/Sparkling),49110.0,548.0,4800000,Islands,
-1299,Sicily,2017,Pinot Grigio (White),48595.0,613.0,4800000,Islands,79.3
-1300,Sicily,2017,Primitivo (Red),48498.0,682.0,4800000,Islands,71.1
-1301,Sicily,2017,Montepulciano (Red),265702.95836355153,506.0,4800000,Islands,77.3
-1302,Sicily,2018,Sangiovese (Red),53251.0,,4800000,Islands,72.2
-1303,Sicily,2018,nebbiolo (red),22016.0,541.0,4800000,Islands,40.7
-1304,sicily,2018,Glera (Prosecco/Sparkling),115292.0,1169.0,4800000,Islands,98.6
-1305,Sicily,2018,Pinot Grigio (White),35407.0,,4800000,Islands,75.8
-1306,Sicily,2018,Primitivo (Red),48226.0,696.0,4800000,Islands,
-1307,Sicily,2018,Montepulciano (Red),63004.0,807.0,4800000,Islands,78.1
-1308,Sicily,2019,Sangiovese (Red),37989.0,559.0,4800000,Islands,68.0
-1309,Sicily,2019,nebbiolo (red),13424.0,318.0,4800000,Islands,42.2
-1310,Sicily,2019,Glera (Prosecco/Sparkling),,,4800000,Islands,109.6
-1311,Sicily,2019,Pinot Grigio (White),63181.0,751.0,4800000,Islands,84.1
-1312,Sicily,2019,Primitivo (Red),50992.0,717.0,4800000,Islands,
-1313,Sicily,2019,Montepulciano (Red),44526.0,499.0,4800000,Islands,89.2
-1314,Sicily,2020,Sangiovese (Red),38099.0,561.0,4800000,Islands,67.9
-1315,Sicily,2020,Nebbiolo (Red),41894.0,872.0,4800000,Islands,48.0
-1316,Sicily,2020,Glera (Prosecco/Sparkling),73820.0,729.0,4800000,Islands,101.3
-1317,sicily,2020,Pinot Grigio (White),52214.0,559.0,4800000,Islands,93.4
-1318,Sicily,2020,Primitivo (Red),57906.0,721.0,4800000,Islands,80.3
-1319,Sicily,2020,Montepulciano (Red),50380.0,624.0,4800000,Islands,80.7
-1320,Sicily,2021,Sangiovese (Red),52472.0,729.0,4800000,Islands,72.0
-1321,Sicily,2021,Nebbiolo (Red),27466.0,595.0,4800000,Islands,46.2
-1322,Sicily,2021,Glera (Prosecco/Sparkling),82878.0,766.0,4800000,Islands,108.2
-1323,Sicily,2021,Pinot Grigio (White),47938.0,,4800000,Islands,100.5
-1324,Sicily,2021,Primitivo (Red),47162.0,548.0,4800000,Islands,
-1325,Sicily,2021,Montepulciano (Red),60190.0,584.0,4800000,Islands,103.1
-1326,Sicily,2022,Sangiovese (Red),50199.0,787.0,4800000,Islands,63.8
-1327,Sicily,2022,Nebbiolo (Red),25232.0,509.0,4800000,Islands,49.6
-1328,Sicily,2022,Glera (Prosecco/Sparkling),117658.0,959.0,4800000,Islands,122.7
-1329,Sicily,2022,Pinot Grigio (White),54094.0,563.0,4800000,Islands,
-1330,Sicily,2022,Primitivo (Red),45841.0,628.0,4800000,Islands,73.0
-1331,Sicily,2022,Montepulciano (Red),50820.0,,4800000,Islands,86.9
-1332,Sicily,2023,Sangiovese (Red),,,4800000,Islands,45.3
-1333,Sicily,2023,Nebbiolo (Red),23770.0,684.0,4800000,Islands,34.8
-1334,Sicily,2023,Glera (Prosecco/Sparkling),72017.0,814.0,4800000,Islands,88.5
-1335,Sicily,2023,Pinot Grigio (White),21943.0,,4800000,Islands,59.5
-1336,Sicily,2023,Primitivo (Red),41120.0,,4800000,Islands,58.6
-1337,Sicily,2023,Montepulciano (Red),29959.0,439.0,4800000,Islands,
-1338,Sicily,2024,Sangiovese (Red),35410.0,552.0,4800000,Islands,64.1
-1339,Sicily,2024,Nebbiolo (Red),19117.0,337.0,4800000,Islands,56.7
-1340,Sicily,2024,Glera (Prosecco/Sparkling),79438.0,679.0,4800000,Islands,117.0
-1341,Sicily,2024,Pinot Grigio (White),45149.0,417.0,4800000,Islands,108.3
-1342,Sicily,2024,Primitivo (Red),45998.0,681.0,4800000,Islands,67.5
-1343,Sicily,2024,Montepulciano (Red),51412.0,753.0,4800000,Islands,68.3
-1344,Sicily,2025,Sangiovese (Red),41615.0,650.0,4800000,Islands,64.0
-1345,Sicily,2025,Nebbiolo (Red),14981.0,326.0,4800000,Islands,46.0
-1346,Sicily,2025,Glera (Prosecco/Sparkling),66614.0,573.0,4800000,Islands,
-1347,Sicily,2025,Pinot Grigio (White),54883.0,,4800000,Islands,87.1
-1348,Sicily,2025,Primitivo (Red),30887.0,421.0,4800000,Islands,73.4
-1349,Sicily,2025,Montepulciano (Red),27761.0,396.0,4800000,Islands,70.1
-1350,Tuscany,2011,Sangiovese (Red),345536.0,5109.0,3600000,Center,67.6
-1351,Tuscany,2011,Nebbiolo (Red),20761.0,454.0,3600000,Center,45.7
-1352,Tuscany,2011,Glera (Prosecco/Sparkling),32476.0,376.0,3600000,Center,86.4
-1353,Tuscany,2011,Pinot Grigio (White),54709.0,606.0,3600000,Center,90.3
-1354,Tuscany,2011,Primitivo (Red),35006.0,468.0,3600000,Center,74.8
-1355,Tuscany,2011,Montepulciano (Red),35265.0,513.0,3600000,Center,68.7
-1356,Tuscany,2012,Sangiovese (Red),339275.0,4498.0,3600000,Center,75.4
-1357,Tuscany,2012,Nebbiolo (Red),13669.0,301.0,3600000,Center,45.4
-1358,Tuscany,2012,Glera (Prosecco/Sparkling),51494.0,495.0,3600000,Center,104.0
-1359,tuscany,2012,Pinot Grigio (White),25040.0,305.0,3600000,Center,82.1
-1360,Tuscany,2012,Primitivo (Red),19097.0,241.0,3600000,Center,79.2
-1361,Tuscany,2012,Montepulciano (Red),47962.0,585.0,3600000,Center,82.0
-1362,Tuscany,2013,Sangiovese (Red),188110.0,2925.0,3600000,Center,64.3
-1363,Tuscany,2013,Nebbiolo (Red),13324.0,312.0,3600000,Center,42.7
-1364,Tuscany,2013,Glera (Prosecco/Sparkling),46940.0,454.0,3600000,Center,103.4
-1365,Tuscany,2013,Pinot Grigio (White),29077.0,312.0,3600000,Center,93.2
-1366,Tuscany,2013,Primitivo (Red),36513.0,421.0,3600000,Center,86.7
-1367,Tuscany,2013,Montepulciano (Red),38979.0,447.0,3600000,Center,87.2
-1368,Tuscany,2014,Sangiovese (Red),434831.0,6969.0,3600000,Center,62.4
-1369,Tuscany,2014,Nebbiolo (Red),15415.0,354.0,3600000,Center,43.5
-1370,Tuscany,2014,Glera (Prosecco/Sparkling),26240.0,289.0,3600000,Center,90.8
-1371,Tuscany,2014,Pinot Grigio (White),37406.0,,3600000,Center,81.3
-1372,Tuscany,2014,Primitivo (Red),26923.0,470.0,3600000,Center,57.3
-1373,Tuscany,2014,Montepulciano (Red),48022.0,490.0,3600000,Center,98.0
-1374,Tuscany,2015,Sangiovese (Red),332787.0,5059.0,3600000,Center,65.8
-1375,Tuscany,2015,Nebbiolo (Red),118532.68708826706,367.0,3600000,Center,47.5
-1376,Tuscany,2015,Glera (Prosecco/Sparkling),40367.0,372.0,3600000,Center,108.5
-1377,Tuscany,2015,Pinot Grigio (White),41226.0,465.0,3600000,Center,88.7
-1378,Tuscany,2015,Primitivo (Red),33601.0,434.0,3600000,Center,77.4
-1379,Tuscany,2015,Montepulciano (Red),44909.0,566.0,3600000,Center,79.3
-1380,Tuscany,2016,Sangiovese (Red),298270.0,4329.0,3600000,Center,68.9
-1381,Tuscany,2016,Nebbiolo (Red),26102.0,499.0,3600000,Center,52.3
-1382,tuscany,2016,Glera (Prosecco/Sparkling),56183.0,542.0,3600000,Center,103.7
-1383,Tuscany,2016,Pinot Grigio (White),27348.0,265.0,3600000,Center,103.2
-1384,Tuscany,2016,Primitivo (Red),44070.0,562.0,3600000,Center,78.4
-1385,Tuscany,2016,Montepulciano (Red),31590.0,387.0,3600000,Center,81.6
-1386,Tuscany,2017,Sangiovese (Red),376525.0,8381.0,3600000,Center,44.9
-1387,Tuscany,2017,Nebbiolo (Red),17051.0,,3600000,Center,
-1388,Tuscany,2017,Glera (Prosecco/Sparkling),46905.0,606.0,3600000,Center,77.4
-1389,Tuscany,2017,Pinot Grigio (White),35701.0,418.0,3600000,Center,
-1390,Tuscany,2017,Primitivo (Red),25760.0,408.0,3600000,Center,63.1
-1391,Tuscany,2017,Montepulciano (Red),20268.0,342.0,3600000,Center,
-1392,tuscany,2018,Sangiovese (Red),2142830.682371518,5373.0,3600000,Center,58.7
-1393,Tuscany,2018,Nebbiolo (Red),14809.0,310.0,3600000,Center,47.8
-1394,Tuscany,2018,Glera (Prosecco/Sparkling),89591.0,690.0,3600000,Center,129.8
-1395,Tuscany,2018,Pinot Grigio (White),,572.0,3600000,Center,114.1
-1396,Tuscany,2018,Primitivo (Red),140483.1846972054,335.0,3600000,Center,61.7
-1397,Tuscany,2018,Montepulciano (Red),42154.0,504.0,3600000,Center,83.6
-1398,Tuscany,2019,Sangiovese (Red),497461.0,7431.0,3600000,Center,66.9
-1399,Tuscany,2019,Nebbiolo (Red),15463.0,390.0,3600000,Center,39.6
-1400,Tuscany,2019,Glera (Prosecco/Sparkling),70514.0,629.0,3600000,Center,112.1
-1401,Tuscany,2019,Pinot Grigio (White),41554.0,467.0,3600000,Center,89.0
-1402,Tuscany,2019,Primitivo (Red),15737.0,214.0,3600000,Center,73.5
-1403,Tuscany,2019,Montepulciano (Red),57303.0,644.0,3600000,Center,89.0
-1404,Tuscany,2020,Sangiovese (Red),1909000.1183689325,,3600000,Center,49.7
-1405,Tuscany,2020,Nebbiolo (Red),28083.0,621.0,3600000,Center,45.2
-1406,Tuscany,2020,Glera (Prosecco/Sparkling),100629.0,849.0,3600000,Center,118.5
-1407,Tuscany,2020,Pinot Grigio (White),37043.0,,3600000,Center,100.9
-1408,Tuscany,2020,Primitivo (Red),41040.0,617.0,3600000,Center,66.5
-1409,Tuscany,2020,Montepulciano (Red),36033.0,368.0,3600000,Center,97.9
-1410,Tuscany,2021,Sangiovese (Red),451273.0,7635.0,3600000,Center,
-1411,Tuscany,2021,Nebbiolo (Red),16731.0,386.0,3600000,Center,43.3
-1412,Tuscany,2021,glera (prosecco/sparkling),44212.0,406.0,3600000,Center,108.9
-1413,Tuscany,2021,Pinot Grigio (White),23722.0,370.0,3600000,Center,64.1
-1414,Tuscany,2021,Primitivo (Red),47135.0,612.0,3600000,Center,77.0
-1415,Tuscany,2021,montepulciano (red),25561.0,306.0,3600000,Center,83.5
-1416,Tuscany,2022,Sangiovese (Red),567941.0,,3600000,Center,68.7
-1417,Tuscany,2022,Nebbiolo (Red),22287.0,502.0,3600000,Center,44.4
-1418,Tuscany,2022,Glera (Prosecco/Sparkling),94589.0,794.0,3600000,Center,119.1
-1419,Tuscany,2022,pinot grigio (white),,242.0,3600000,Center,98.6
-1420,Tuscany,2022,Primitivo (Red),28987.0,426.0,3600000,Center,
-1421,Tuscany,2022,Montepulciano (Red),25714.0,257.0,3600000,Center,100.1
-1422,Tuscany,2023,Sangiovese (Red),377019.0,6357.0,3600000,Center,59.3
-1423,Tuscany,2023,Nebbiolo (Red),18123.0,481.0,3600000,Center,37.7
-1424,Tuscany,2023,Glera (Prosecco/Sparkling),37415.0,515.0,3600000,Center,72.7
-1425,Tuscany,2023,Pinot Grigio (White),44015.0,487.0,3600000,Center,90.4
-1426,Tuscany,2023,Primitivo (Red),18583.0,341.0,3600000,Center,54.5
-1427,Tuscany,2023,Montepulciano (Red),26831.0,545.0,3600000,Center,49.2
-1428,Tuscany,2024,Sangiovese (Red),471206.0,5881.0,3600000,Center,80.1
-1429,Tuscany,2024,Nebbiolo (Red),23398.0,479.0,3600000,Center,48.8
-1430,Tuscany,2024,Glera (Prosecco/Sparkling),55234.0,483.0,3600000,Center,114.4
-1431,Tuscany,2024,Pinot Grigio (White),74536.0,727.0,3600000,Center,102.5
-1432,Tuscany,2024,Primitivo (Red),26357.0,405.0,3600000,Center,65.1
-1433,Tuscany,2024,Montepulciano (Red),39325.0,456.0,3600000,Center,86.2
-1434,Tuscany,2025,Sangiovese (Red),437143.0,,3600000,Center,56.6
-1435,Tuscany,2025,Nebbiolo (Red),25050.0,414.0,3600000,Center,60.5
-1436,Tuscany,2025,Glera (Prosecco/Sparkling),50243.0,591.0,3600000,Center,85.0
-1437,Tuscany,2025,Pinot Grigio (White),33274.0,350.0,3600000,Center,95.1
-1438,Tuscany,2025,Primitivo (Red),43742.0,643.0,3600000,Center,68.0
-1439,Tuscany,2025,Montepulciano (Red),32153.0,473.0,3600000,Center,68.0
+990,Piedmont,2011,Sangiovese (Red),35488.0,592.0,4200000,,59.9
+991,Piedmont,2011,Nebbiolo (Red),407888.0,8432.0,4200000,,48.4
+992,Piedmont,2011,Glera (Prosecco/Sparkling),45102.0,419.0,4200000,,107.6
+993,Piedmont,2011,Pinot Grigio (White),48310.0,,4200000,,93.1
+994,Piedmont,2011,Primitivo (Red),26014.0,381.0,4200000,,68.3
+995,Piedmont,2011,Montepulciano (Red),28452.0,365.0,4200000,,78.0
+996,Piedmont,2012,Sangiovese (Red),22579.0,360.0,4200000,,62.7
+997,piedmont,2012,Nebbiolo (Red),220251.0,4821.0,4200000,,45.7
+998,Piedmont,2012,Glera (Prosecco/Sparkling),28371.0,291.0,4200000,,97.5
+999,Piedmont,2012,pinot grigio (white),32500.0,,4200000,,84.2
+1000,Piedmont,2012,Primitivo (Red),28124.0,367.0,4200000,,76.6
+1001,Piedmont,2012,Montepulciano (Red),34003.0,385.0,4200000,,
+1002,Piedmont,2013,Sangiovese (Red),24391.0,419.0,4200000,,58.2
+1003,Piedmont,2013,Nebbiolo (Red),485561.0,,4200000,,49.4
+1004,Piedmont,2013,Glera (Prosecco/Sparkling),412975.1669342335,427.0,4200000,,142.3
+1005,Piedmont,2013,Pinot Grigio (White),27583.0,282.0,4200000,,97.8
+1006,Piedmont,2013,Primitivo (Red),27946.0,414.0,4200000,,67.5
+1007,Piedmont,2013,Montepulciano (Red),19955.0,323.0,4200000,,61.8
+1008,Piedmont,2014,Sangiovese (Red),48414.0,677.0,4200000,,
+1009,Piedmont,2014,Nebbiolo (Red),372218.0,7154.0,4200000,,52.0
+1010,Piedmont,2014,Glera (Prosecco/Sparkling),,384.0,4200000,,
+1011,Piedmont,2014,Pinot Grigio (White),55872.0,626.0,4200000,,89.3
+1012,Piedmont,2014,Primitivo (Red),41761.0,561.0,4200000,,74.4
+1013,Piedmont,2014,Montepulciano (Red),37740.0,395.0,4200000,,95.5
+1014,piedmont,2015,Sangiovese (Red),35549.0,566.0,4200000,,62.8
+1015,Piedmont,2015,Nebbiolo (Red),357662.0,8572.0,4200000,,41.7
+1016,Piedmont,2015,Glera (Prosecco/Sparkling),69935.0,,4200000,,108.1
+1017,Piedmont,2015,Pinot Grigio (White),21305.0,216.0,4200000,,98.6
+1018,Piedmont,2015,Primitivo (Red),28263.0,434.0,4200000,,65.1
+1019,piedmont,2015,Montepulciano (Red),24756.0,318.0,4200000,,77.8
+1020,Piedmont,2016,Sangiovese (Red),200653.3722605305,,4200000,,
+1021,Piedmont,2016,Nebbiolo (Red),375585.0,7478.0,4200000,,50.2
+1022,piedmont,2016,Glera (Prosecco/Sparkling),78296.0,754.0,4200000,,103.8
+1023,Piedmont,2016,Pinot Grigio (White),39470.0,484.0,4200000,,81.5
+1024,Piedmont,2016,Primitivo (Red),31265.0,394.0,4200000,,79.4
+1025,Piedmont,2016,Montepulciano (Red),30666.0,392.0,4200000,,78.2
+1026,Piedmont,2017,Sangiovese (Red),15276.0,313.0,4200000,,48.8
+1027,Piedmont,2017,Nebbiolo (Red),376450.0,8723.0,4200000,,43.2
+1028,Piedmont,2017,Glera (Prosecco/Sparkling),49549.0,495.0,4200000,,100.1
+1029,Piedmont,2017,Pinot Grigio (White),26921.0,360.0,4200000,,74.8
+1030,Piedmont,2017,Primitivo (Red),18658.0,319.0,4200000,,58.5
+1031,Piedmont,2017,Montepulciano (Red),35177.0,429.0,4200000,,82.0
+1032,Piedmont,2018,Sangiovese (Red),25542.0,372.0,4200000,,68.7
+1033,Piedmont,2018,Nebbiolo (Red),530229.0,12934.0,4200000,,41.0
+1034,Piedmont,2018,Glera (Prosecco/Sparkling),69536.0,549.0,4200000,,
+1035,Piedmont,2018,Pinot Grigio (White),29508.0,374.0,4200000,,78.9
+1036,Piedmont,2018,Primitivo (Red),40392.0,525.0,4200000,,76.9
+1037,Piedmont,2018,Montepulciano (Red),28396.0,334.0,4200000,,85.0
+1038,Piedmont,2019,Sangiovese (Red),17729.0,225.0,4200000,,78.8
+1039,Piedmont,2019,Nebbiolo (Red),204938.0,,4200000,,46.5
+1040,Piedmont,2019,Glera (Prosecco/Sparkling),59256.0,520.0,4200000,,114.0
+1041,Piedmont,2019,Pinot Grigio (White),28827.0,341.0,4200000,,84.5
+1042,Piedmont,2019,Primitivo (Red),35388.0,410.0,4200000,,86.3
+1043,Piedmont,2019,Montepulciano (Red),246287.3015001655,450.0,4200000,,80.5
+1044,Piedmont,2020,Sangiovese (Red),44601.0,559.0,4200000,,79.8
+1045,Piedmont,2020,Nebbiolo (Red),283626.0,6013.0,4200000,,47.2
+1046,Piedmont,2020,Glera (Prosecco/Sparkling),80603.0,642.0,4200000,,125.5
+1047,Piedmont,2020,Pinot Grigio (White),25568.0,328.0,4200000,,
+1048,Piedmont,2020,Primitivo (Red),37785.0,489.0,4200000,,77.3
+1049,Piedmont,2020,Montepulciano (Red),37581.0,534.0,4200000,,70.4
+1050,Piedmont,2021,Sangiovese (Red),35770.0,583.0,4200000,,61.4
+1051,Piedmont,2021,Nebbiolo (Red),415165.0,,4200000,,50.7
+1052,Piedmont,2021,glera (prosecco/sparkling),101499.0,795.0,4200000,,
+1053,Piedmont,2021,Pinot Grigio (White),22621.0,,4200000,,77.2
+1054,Piedmont,2021,Primitivo (Red),17938.0,251.0,4200000,,
+1055,Piedmont,2021,Montepulciano (Red),30923.0,421.0,4200000,,73.5
+1056,Piedmont,2022,Sangiovese (Red),24671.0,442.0,4200000,,55.8
+1057,Piedmont,2022,Nebbiolo (Red),393965.0,7813.0,4200000,,50.4
+1058,Piedmont,2022,glera (prosecco/sparkling),52813.0,584.0,4200000,,90.4
+1059,Piedmont,2022,Pinot Grigio (White),52810.0,538.0,4200000,,98.2
+1060,Piedmont,2022,Primitivo (Red),29848.0,329.0,4200000,,
+1061,Piedmont,2022,montepulciano (red),38649.0,425.0,4200000,,90.9
+1062,Piedmont,2023,Sangiovese (Red),104730.37729143926,327.0,4200000,,47.1
+1063,Piedmont,2023,Nebbiolo (Red),193531.0,6679.0,4200000,,29.0
+1064,Piedmont,2023,Glera (Prosecco/Sparkling),52751.0,650.0,4200000,,81.2
+1065,Piedmont,2023,Pinot Grigio (White),22199.0,415.0,4200000,,53.5
+1066,Piedmont,2023,Primitivo (Red),21029.0,270.0,4200000,,77.9
+1067,Piedmont,2023,Montepulciano (Red),28377.0,,4200000,,57.9
+1068,Piedmont,2024,Sangiovese (Red),34762.0,597.0,4200000,,58.2
+1069,Piedmont,2024,nebbiolo (red),657488.0,12632.0,4200000,,
+1070,Piedmont,2024,Glera (Prosecco/Sparkling),30922.0,,4200000,,98.5
+1071,Piedmont,2024,Pinot Grigio (White),42968.0,452.0,4200000,,95.1
+1072,piedmont,2024,Primitivo (Red),28141.0,291.0,4200000,,96.7
+1073,Piedmont,2024,Montepulciano (Red),37382.0,478.0,4200000,,78.2
+1074,Piedmont,2025,Sangiovese (Red),28486.0,450.0,4200000,,63.3
+1075,Piedmont,2025,Nebbiolo (Red),247275.0,,4200000,,50.9
+1076,Piedmont,2025,Glera (Prosecco/Sparkling),28108.0,282.0,4200000,,99.7
+1077,Piedmont,2025,Pinot Grigio (White),39142.0,450.0,4200000,,87.0
+1078,Piedmont,2025,Primitivo (Red),29978.0,476.0,4200000,,63.0
+1079,Piedmont,2025,Montepulciano (Red),23726.0,249.0,4200000,,95.3
+1080,Apulia,2011,Sangiovese (Red),42944.0,568.0,3900000,,75.6
+1081,Apulia,2011,Nebbiolo (Red),33873.0,746.0,3900000,,45.4
+1082,Apulia,2011,Glera (Prosecco/Sparkling),30177.0,,3900000,,76.0
+1083,Apulia,2011,Pinot Grigio (White),42188.0,548.0,3900000,,77.0
+1084,Apulia,2011,Primitivo (Red),774955.0,,3900000,,85.4
+1085,Apulia,2011,Montepulciano (Red),762070.0,9167.0,3900000,,83.1
+1086,Apulia,2012,Sangiovese (Red),43351.0,632.0,3900000,,68.6
+1087,apulia,2012,Nebbiolo (Red),26531.0,584.0,3900000,,45.4
+1088,Apulia,2012,Glera (Prosecco/Sparkling),71695.0,730.0,3900000,,98.2
+1089,Apulia,2012,Pinot Grigio (White),74472.0,784.0,3900000,,95.0
+1090,Apulia,2012,Primitivo (Red),579199.0,7919.0,3900000,,73.1
+1091,Apulia,2012,Montepulciano (Red),773636.0,8608.0,3900000,,89.9
+1092,Apulia,2013,Sangiovese (Red),33680.0,693.0,3900000,,48.6
+1093,Apulia,2013,Nebbiolo (Red),33843.0,675.0,3900000,,50.1
+1094,Apulia,2013,Glera (Prosecco/Sparkling),36839.0,,3900000,,101.5
+1095,Apulia,2013,Pinot Grigio (White),32819.0,455.0,3900000,,72.1
+1096,Apulia,2013,Primitivo (Red),660742.0,,3900000,,76.8
+1097,Apulia,2013,Montepulciano (Red),707860.0,8685.0,3900000,,81.5
+1098,Apulia,2014,Sangiovese (Red),33238.0,547.0,3900000,,60.8
+1099,Apulia,2014,Nebbiolo (Red),,,3900000,,53.1
+1100,Apulia,2014,Glera (Prosecco/Sparkling),103828.0,942.0,3900000,,110.2
+1101,Apulia,2014,Pinot Grigio (White),61995.0,709.0,3900000,,87.4
+1102,Apulia,2014,Primitivo (Red),897966.0,11054.0,3900000,,81.2
+1103,Apulia,2014,Montepulciano (Red),982060.0,12371.0,3900000,,79.4
+1104,Apulia,2015,Sangiovese (Red),40726.0,512.0,3900000,,79.5
+1105,Apulia,2015,Nebbiolo (Red),29227.0,592.0,3900000,,49.4
+1106,Apulia,2015,Glera (Prosecco/Sparkling),85885.0,,3900000,,111.7
+1107,Apulia,2015,Pinot Grigio (White),59221.0,674.0,3900000,,87.9
+1108,Apulia,2015,Primitivo (Red),866928.0,,3900000,,86.0
+1109,Apulia,2015,Montepulciano (Red),683374.0,10146.0,3900000,,67.4
+1110,Apulia,2016,Sangiovese (Red),41834.0,612.0,3900000,,68.4
+1111,Apulia,2016,Nebbiolo (Red),241503.04443617398,,3900000,,42.1
+1112,Apulia,2016,Glera (Prosecco/Sparkling),96841.0,828.0,3900000,,117.0
+1113,Apulia,2016,Pinot Grigio (White),54580.0,630.0,3900000,,86.6
+1114,Apulia,2016,Primitivo (Red),709752.0,9070.0,3900000,,78.3
+1115,Apulia,2016,Montepulciano (Red),693884.0,9443.0,3900000,,73.5
+1116,Apulia,2017,Sangiovese (Red),26857.0,656.0,3900000,,40.9
+1117,Apulia,2017,Nebbiolo (Red),21416.0,541.0,3900000,,39.6
+1118,Apulia,2017,Glera (Prosecco/Sparkling),79460.0,814.0,3900000,,97.6
+1119,Apulia,2017,Pinot Grigio (White),32165.0,428.0,3900000,,
+1120,Apulia,2017,Primitivo (Red),953260.0,12006.0,3900000,,79.4
+1121,Apulia,2017,Montepulciano (Red),595919.0,,3900000,,68.0
+1122,Apulia,2018,Sangiovese (Red),37373.0,527.0,3900000,,70.9
+1123,Apulia,2018,Nebbiolo (Red),27194.0,599.0,3900000,,
+1124,Apulia,2018,Glera (Prosecco/Sparkling),531202.0421363079,744.0,3900000,,105.1
+1125,Apulia,2018,Pinot Grigio (White),45220.0,452.0,3900000,,100.0
+1126,Apulia,2018,Primitivo (Red),560181.0,6333.0,3900000,,88.5
+1127,Apulia,2018,Montepulciano (Red),469631.0,5312.0,3900000,,88.4
+1128,Apulia,2019,sangiovese (red),41109.0,654.0,3900000,,62.9
+1129,Apulia,2019,Nebbiolo (Red),24029.0,497.0,3900000,,48.3
+1130,Apulia,2019,Glera (Prosecco/Sparkling),98063.0,848.0,3900000,,115.6
+1131,Apulia,2019,Pinot Grigio (White),63806.0,755.0,3900000,,84.5
+1132,Apulia,2019,Primitivo (Red),,9595.0,3900000,,66.9
+1133,Apulia,2019,Montepulciano (Red),739974.0,9579.0,3900000,,77.2
+1134,Apulia,2020,Sangiovese (Red),9796.0,158.0,3900000,,62.0
+1135,Apulia,2020,Nebbiolo (Red),23605.0,653.0,3900000,,36.1
+1136,Apulia,2020,Glera (Prosecco/Sparkling),129115.0,1135.0,3900000,,113.8
+1137,Apulia,2020,Pinot Grigio (White),48301.0,547.0,3900000,,88.3
+1138,Apulia,2020,Primitivo (Red),445258.0,7517.0,3900000,,59.2
+1139,Apulia,2020,Montepulciano (Red),898446.0,11759.0,3900000,,76.4
+1140,Apulia,2021,Sangiovese (Red),30833.0,433.0,3900000,,71.2
+1141,Apulia,2021,Nebbiolo (Red),26699.0,523.0,3900000,,
+1142,Apulia,2021,Glera (Prosecco/Sparkling),55111.0,530.0,3900000,,104.0
+1143,Apulia,2021,Pinot Grigio (White),,721.0,3900000,,99.7
+1144,Apulia,2021,Primitivo (Red),557241.0,7737.0,3900000,,72.0
+1145,Apulia,2021,Montepulciano (Red),853198.0,,3900000,,73.6
+1146,Apulia,2022,Sangiovese (Red),62674.0,787.0,3900000,,79.6
+1147,Apulia,2022,Nebbiolo (Red),22194.0,571.0,3900000,,38.9
+1148,Apulia,2022,Glera (Prosecco/Sparkling),42146.0,482.0,3900000,,87.4
+1149,apulia,2022,Pinot Grigio (White),66770.0,725.0,3900000,,92.1
+1150,Apulia,2022,Primitivo (Red),895655.0,,3900000,,78.8
+1151,Apulia,2022,Montepulciano (Red),977611.0,11115.0,3900000,,88.0
+1152,Apulia,2023,Sangiovese (Red),22406.0,481.0,3900000,,46.6
+1153,Apulia,2023,Nebbiolo (Red),23053.0,633.0,3900000,,36.4
+1154,Apulia,2023,Glera (Prosecco/Sparkling),89397.0,,3900000,,93.4
+1155,Apulia,2023,Pinot Grigio (White),66663.0,750.0,3900000,,88.9
+1156,Apulia,2023,Primitivo (Red),905134.0,11904.0,3900000,,76.0
+1157,Apulia,2023,Montepulciano (Red),631110.0,10459.0,3900000,,60.3
+1158,Apulia,2024,sangiovese (red),32190.0,453.0,3900000,,71.1
+1159,Apulia,2024,Nebbiolo (Red),22475.0,436.0,3900000,,51.5
+1160,apulia,2024,Glera (Prosecco/Sparkling),91079.0,928.0,3900000,,98.1
+1161,Apulia,2024,Pinot Grigio (White),41586.0,604.0,3900000,,68.9
+1162,Apulia,2024,Primitivo (Red),468049.0,8245.0,3900000,,56.8
+1163,Apulia,2024,Montepulciano (Red),635535.0,7771.0,3900000,,81.8
+1164,Apulia,2025,Sangiovese (Red),35569.0,443.0,3900000,,80.3
+1165,Apulia,2025,Nebbiolo (Red),23352.0,535.0,3900000,,43.6
+1166,Apulia,2025,Glera (Prosecco/Sparkling),104036.0,858.0,3900000,,
+1167,Apulia,2025,Pinot Grigio (White),39962.0,444.0,3900000,,90.0
+1168,Apulia,2025,Primitivo (Red),544448.0,6441.0,3900000,,84.5
+1169,Apulia,2025,Montepulciano (Red),565647.0,6881.0,3900000,,82.2
+1170,Sardinia,2011,sangiovese (red),8773.0,175.0,1600000,,
+1171,Sardinia,2011,Nebbiolo (Red),8289.0,,1600000,,48.8
+1172,Sardinia,2011,Glera (Prosecco/Sparkling),18666.0,167.0,1600000,,111.8
+1173,Sardinia,2011,Pinot Grigio (White),102052.82433233038,191.0,1600000,,78.6
+1174,Sardinia,2011,Primitivo (Red),11840.0,157.0,1600000,,75.4
+1175,Sardinia,2011,Montepulciano (Red),15089.0,208.0,1600000,,72.5
+1176,Sardinia,2012,Sangiovese (Red),7065.0,114.0,1600000,,62.0
+1177,Sardinia,2012,Nebbiolo (Red),6278.0,127.0,1600000,,49.4
+1178,sardinia,2012,Glera (Prosecco/Sparkling),21357.0,180.0,1600000,,118.6
+1179,Sardinia,2012,Pinot Grigio (White),7994.0,97.0,1600000,,82.4
+1180,Sardinia,2012,Primitivo (Red),17146.0,225.0,1600000,,76.2
+1181,Sardinia,2012,Montepulciano (Red),19039.0,169.0,1600000,,112.7
+1182,Sardinia,2013,Sangiovese (Red),5400.0,75.0,1600000,,72.0
+1183,sardinia,2013,Nebbiolo (Red),4277.0,95.0,1600000,,45.0
+1184,Sardinia,2013,Glera (Prosecco/Sparkling),,,1600000,,106.5
+1185,Sardinia,2013,Pinot Grigio (White),,159.0,1600000,,92.7
+1186,Sardinia,2013,Primitivo (Red),15842.0,203.0,1600000,,
+1187,Sardinia,2013,Montepulciano (Red),8996.0,131.0,1600000,,68.7
+1188,Sardinia,2014,Sangiovese (Red),7780.0,105.0,1600000,,74.1
+1189,Sardinia,2014,Nebbiolo (Red),6204.0,125.0,1600000,,49.6
+1190,Sardinia,2014,Glera (Prosecco/Sparkling),26265.0,214.0,1600000,,122.7
+1191,Sardinia,2014,Pinot Grigio (White),16839.0,167.0,1600000,,100.8
+1192,Sardinia,2014,primitivo (red),8062.0,102.0,1600000,,79.0
+1193,Sardinia,2014,Montepulciano (Red),66170.896352394,144.0,1600000,,
+1194,Sardinia,2015,Sangiovese (Red),9156.0,134.0,1600000,,
+1195,Sardinia,2015,Nebbiolo (Red),11824.0,264.0,1600000,,44.8
+1196,Sardinia,2015,Glera (Prosecco/Sparkling),16756.0,169.0,1600000,,99.1
+1197,Sardinia,2015,Pinot Grigio (White),15304.0,198.0,1600000,,77.3
+1198,Sardinia,2015,Primitivo (Red),11499.0,165.0,1600000,,69.7
+1199,Sardinia,2015,Montepulciano (Red),9572.0,129.0,1600000,,74.2
+1200,Sardinia,2016,Sangiovese (Red),15101.0,217.0,1600000,,69.6
+1201,Sardinia,2016,Nebbiolo (Red),7646.0,130.0,1600000,,58.8
+1202,Sardinia,2016,Glera (Prosecco/Sparkling),31047.0,236.0,1600000,,131.6
+1203,Sardinia,2016,Pinot Grigio (White),13443.0,152.0,1600000,,88.4
+1204,Sardinia,2016,Primitivo (Red),10586.0,123.0,1600000,,86.1
+1205,Sardinia,2016,Montepulciano (Red),17030.0,215.0,1600000,,79.2
+1206,Sardinia,2017,Sangiovese (Red),9700.0,177.0,1600000,,54.8
+1207,Sardinia,2017,Nebbiolo (Red),6695.0,184.0,1600000,,
+1208,Sardinia,2017,Glera (Prosecco/Sparkling),16485.0,178.0,1600000,,
+1209,Sardinia,2017,Pinot Grigio (White),8770.0,113.0,1600000,,77.6
+1210,Sardinia,2017,Primitivo (Red),5177.0,105.0,1600000,,49.3
+1211,Sardinia,2017,Montepulciano (Red),12239.0,148.0,1600000,,82.7
+1212,Sardinia,2018,Sangiovese (Red),10884.0,135.0,1600000,,80.6
+1213,Sardinia,2018,Nebbiolo (Red),9200.0,182.0,1600000,,50.5
+1214,Sardinia,2018,Glera (Prosecco/Sparkling),20661.0,216.0,1600000,,95.7
+1215,Sardinia,2018,Pinot Grigio (White),60591.52838430163,85.0,1600000,,
+1216,Sardinia,2018,primitivo (red),9152.0,138.0,1600000,,66.3
+1217,Sardinia,2018,Montepulciano (Red),10552.0,115.0,1600000,,
+1218,Sardinia,2019,Sangiovese (Red),19674.0,264.0,1600000,,74.5
+1219,Sardinia,2019,Nebbiolo (Red),4786.0,91.0,1600000,,52.6
+1220,Sardinia,2019,Glera (Prosecco/Sparkling),19303.0,174.0,1600000,,110.9
+1221,Sardinia,2019,Pinot Grigio (White),14215.0,145.0,1600000,,
+1222,Sardinia,2019,Primitivo (Red),11445.0,154.0,1600000,,74.3
+1223,Sardinia,2019,Montepulciano (Red),12228.0,141.0,1600000,,86.7
+1224,Sardinia,2020,Sangiovese (Red),14767.0,192.0,1600000,,76.9
+1225,Sardinia,2020,Nebbiolo (Red),7102.0,162.0,1600000,,43.8
+1226,Sardinia,2020,Glera (Prosecco/Sparkling),26989.0,231.0,1600000,,116.8
+1227,Sardinia,2020,Pinot Grigio (White),13507.0,,1600000,,81.9
+1228,Sardinia,2020,Primitivo (Red),9397.0,180.0,1600000,,52.2
+1229,Sardinia,2020,Montepulciano (Red),14894.0,166.0,1600000,,89.7
+1230,Sardinia,2021,Sangiovese (Red),8092.0,131.0,1600000,,61.8
+1231,Sardinia,2021,Nebbiolo (Red),5509.0,99.0,1600000,,55.6
+1232,Sardinia,2021,Glera (Prosecco/Sparkling),28685.0,255.0,1600000,,112.5
+1233,Sardinia,2021,Pinot Grigio (White),10117.0,134.0,1600000,,75.5
+1234,Sardinia,2021,Primitivo (Red),14177.0,180.0,1600000,,78.8
+1235,Sardinia,2021,Montepulciano (Red),16437.0,207.0,1600000,,79.4
+1236,Sardinia,2022,Sangiovese (Red),13802.0,187.0,1600000,,73.8
+1237,Sardinia,2022,Nebbiolo (Red),,108.0,1600000,,56.7
+1238,Sardinia,2022,Glera (Prosecco/Sparkling),38493.0,319.0,1600000,,120.7
+1239,Sardinia,2022,Pinot Grigio (White),20886.0,191.0,1600000,,109.4
+1240,Sardinia,2022,Primitivo (Red),12088.0,174.0,1600000,,69.5
+1241,Sardinia,2022,Montepulciano (Red),8718.0,101.0,1600000,,86.3
+1242,Sardinia,2023,Sangiovese (Red),6606.0,145.0,1600000,,45.6
+1243,Sardinia,2023,Nebbiolo (Red),4849.0,136.0,1600000,,35.7
+1244,Sardinia,2023,Glera (Prosecco/Sparkling),16985.0,209.0,1600000,,81.3
+1245,Sardinia,2023,Pinot Grigio (White),4734.0,69.0,1600000,,68.6
+1246,Sardinia,2023,Primitivo (Red),7220.0,146.0,1600000,,49.5
+1247,Sardinia,2023,Montepulciano (Red),,167.0,1600000,,60.7
+1248,Sardinia,2024,Sangiovese (Red),13247.0,181.0,1600000,,73.2
+1249,Sardinia,2024,Nebbiolo (Red),11267.0,221.0,1600000,,51.0
+1250,Sardinia,2024,Glera (Prosecco/Sparkling),19112.0,178.0,1600000,,107.4
+1251,Sardinia,2024,Pinot Grigio (White),8298.0,91.0,1600000,,91.2
+1252,sardinia,2024,Primitivo (Red),10200.0,182.0,1600000,,56.0
+1253,Sardinia,2024,Montepulciano (Red),11810.0,115.0,1600000,,102.7
+1254,Sardinia,2025,Sangiovese (Red),9028.0,140.0,1600000,,64.5
+1255,sardinia,2025,Nebbiolo (Red),8641.0,,1600000,,50.5
+1256,Sardinia,2025,Glera (Prosecco/Sparkling),14260.0,157.0,1600000,,
+1257,Sardinia,2025,Pinot Grigio (White),18674.0,,1600000,,100.4
+1258,Sardinia,2025,Primitivo (Red),13123.0,176.0,1600000,,74.6
+1259,Sardinia,2025,Montepulciano (Red),9416.0,131.0,1600000,,71.9
+1260,Sicily,2011,Sangiovese (Red),34994.0,535.0,4800000,,65.4
+1261,Sicily,2011,Nebbiolo (Red),14966.0,379.0,4800000,,
+1262,Sicily,2011,Glera (Prosecco/Sparkling),63090.0,609.0,4800000,,103.6
+1263,Sicily,2011,Pinot Grigio (White),51829.0,489.0,4800000,,106.0
+1264,sicily,2011,Primitivo (Red),52799.0,666.0,4800000,,79.3
+1265,Sicily,2011,Montepulciano (Red),43922.0,540.0,4800000,,
+1266,Sicily,2012,Sangiovese (Red),34220.0,,4800000,,47.3
+1267,Sicily,2012,Nebbiolo (Red),25888.0,539.0,4800000,,48.0
+1268,Sicily,2012,Glera (Prosecco/Sparkling),50913.0,393.0,4800000,,129.5
+1269,Sicily,2012,Pinot Grigio (White),,,4800000,,78.3
+1270,Sicily,2012,Primitivo (Red),20251.0,309.0,4800000,,65.5
+1271,Sicily,2012,Montepulciano (Red),34353.0,392.0,4800000,,
+1272,Sicily,2013,Sangiovese (Red),62437.0,803.0,4800000,,77.8
+1273,Sicily,2013,Nebbiolo (Red),33076.0,737.0,4800000,,44.9
+1274,Sicily,2013,Glera (Prosecco/Sparkling),67173.0,692.0,4800000,,97.1
+1275,Sicily,2013,Pinot Grigio (White),65454.0,666.0,4800000,,
+1276,Sicily,2013,Primitivo (Red),28750.0,,4800000,,74.7
+1277,Sicily,2013,Montepulciano (Red),57259.0,815.0,4800000,,70.3
+1278,Sicily,2014,Sangiovese (Red),20458.0,316.0,4800000,,64.7
+1279,Sicily,2014,Nebbiolo (Red),28597.0,619.0,4800000,,46.2
+1280,Sicily,2014,Glera (Prosecco/Sparkling),47110.0,499.0,4800000,,94.4
+1281,Sicily,2014,Pinot Grigio (White),74062.0,666.0,4800000,,111.2
+1282,Sicily,2014,Primitivo (Red),49203.0,652.0,4800000,,75.5
+1283,Sicily,2014,Montepulciano (Red),,704.0,4800000,,86.8
+1284,Sicily,2015,Sangiovese (Red),41069.0,544.0,4800000,,75.5
+1285,Sicily,2015,Nebbiolo (Red),28308.0,543.0,4800000,,52.1
+1286,Sicily,2015,Glera (Prosecco/Sparkling),,421.0,4800000,,102.3
+1287,sicily,2015,Pinot Grigio (White),46143.0,644.0,4800000,,71.7
+1288,Sicily,2015,Primitivo (Red),48571.0,759.0,4800000,,64.0
+1289,Sicily,2015,Montepulciano (Red),28876.0,336.0,4800000,,85.9
+1290,Sicily,2016,Sangiovese (Red),40931.0,662.0,4800000,,61.8
+1291,Sicily,2016,Nebbiolo (Red),289807.73081522464,791.0,4800000,,53.9
+1292,Sicily,2016,Glera (Prosecco/Sparkling),113463.0,1230.0,4800000,,92.2
+1293,Sicily,2016,Pinot Grigio (White),63380.0,689.0,4800000,,92.0
+1294,Sicily,2016,Primitivo (Red),38249.0,455.0,4800000,,84.1
+1295,Sicily,2016,Montepulciano (Red),44038.0,492.0,4800000,,89.5
+1296,Sicily,2017,Sangiovese (Red),,802.0,4800000,,
+1297,Sicily,2017,Nebbiolo (Red),29159.0,645.0,4800000,,45.2
+1298,Sicily,2017,Glera (Prosecco/Sparkling),49110.0,548.0,4800000,,
+1299,Sicily,2017,Pinot Grigio (White),48595.0,613.0,4800000,,79.3
+1300,Sicily,2017,Primitivo (Red),48498.0,682.0,4800000,,71.1
+1301,Sicily,2017,Montepulciano (Red),265702.95836355153,506.0,4800000,,77.3
+1302,Sicily,2018,Sangiovese (Red),53251.0,,4800000,,72.2
+1303,Sicily,2018,nebbiolo (red),22016.0,541.0,4800000,,40.7
+1304,sicily,2018,Glera (Prosecco/Sparkling),115292.0,1169.0,4800000,,98.6
+1305,Sicily,2018,Pinot Grigio (White),35407.0,,4800000,,75.8
+1306,Sicily,2018,Primitivo (Red),48226.0,696.0,4800000,,
+1307,Sicily,2018,Montepulciano (Red),63004.0,807.0,4800000,,78.1
+1308,Sicily,2019,Sangiovese (Red),37989.0,559.0,4800000,,68.0
+1309,Sicily,2019,nebbiolo (red),13424.0,318.0,4800000,,42.2
+1310,Sicily,2019,Glera (Prosecco/Sparkling),,,4800000,,109.6
+1311,Sicily,2019,Pinot Grigio (White),63181.0,751.0,4800000,,84.1
+1312,Sicily,2019,Primitivo (Red),50992.0,717.0,4800000,,
+1313,Sicily,2019,Montepulciano (Red),44526.0,499.0,4800000,,89.2
+1314,Sicily,2020,Sangiovese (Red),38099.0,561.0,4800000,,67.9
+1315,Sicily,2020,Nebbiolo (Red),41894.0,872.0,4800000,,48.0
+1316,Sicily,2020,Glera (Prosecco/Sparkling),73820.0,729.0,4800000,,101.3
+1317,sicily,2020,Pinot Grigio (White),52214.0,559.0,4800000,,93.4
+1318,Sicily,2020,Primitivo (Red),57906.0,721.0,4800000,,80.3
+1319,Sicily,2020,Montepulciano (Red),50380.0,624.0,4800000,,80.7
+1320,Sicily,2021,Sangiovese (Red),52472.0,729.0,4800000,,72.0
+1321,Sicily,2021,Nebbiolo (Red),27466.0,595.0,4800000,,46.2
+1322,Sicily,2021,Glera (Prosecco/Sparkling),82878.0,766.0,4800000,,108.2
+1323,Sicily,2021,Pinot Grigio (White),47938.0,,4800000,,100.5
+1324,Sicily,2021,Primitivo (Red),47162.0,548.0,4800000,,
+1325,Sicily,2021,Montepulciano (Red),60190.0,584.0,4800000,,103.1
+1326,Sicily,2022,Sangiovese (Red),50199.0,787.0,4800000,,63.8
+1327,Sicily,2022,Nebbiolo (Red),25232.0,509.0,4800000,,49.6
+1328,Sicily,2022,Glera (Prosecco/Sparkling),117658.0,959.0,4800000,,122.7
+1329,Sicily,2022,Pinot Grigio (White),54094.0,563.0,4800000,,
+1330,Sicily,2022,Primitivo (Red),45841.0,628.0,4800000,,73.0
+1331,Sicily,2022,Montepulciano (Red),50820.0,,4800000,,86.9
+1332,Sicily,2023,Sangiovese (Red),,,4800000,,45.3
+1333,Sicily,2023,Nebbiolo (Red),23770.0,684.0,4800000,,34.8
+1334,Sicily,2023,Glera (Prosecco/Sparkling),72017.0,814.0,4800000,,88.5
+1335,Sicily,2023,Pinot Grigio (White),21943.0,,4800000,,59.5
+1336,Sicily,2023,Primitivo (Red),41120.0,,4800000,,58.6
+1337,Sicily,2023,Montepulciano (Red),29959.0,439.0,4800000,,
+1338,Sicily,2024,Sangiovese (Red),35410.0,552.0,4800000,,64.1
+1339,Sicily,2024,Nebbiolo (Red),19117.0,337.0,4800000,,56.7
+1340,Sicily,2024,Glera (Prosecco/Sparkling),79438.0,679.0,4800000,,117.0
+1341,Sicily,2024,Pinot Grigio (White),45149.0,417.0,4800000,,108.3
+1342,Sicily,2024,Primitivo (Red),45998.0,681.0,4800000,,67.5
+1343,Sicily,2024,Montepulciano (Red),51412.0,753.0,4800000,,68.3
+1344,Sicily,2025,Sangiovese (Red),41615.0,650.0,4800000,,64.0
+1345,Sicily,2025,Nebbiolo (Red),14981.0,326.0,4800000,,46.0
+1346,Sicily,2025,Glera (Prosecco/Sparkling),66614.0,573.0,4800000,,
+1347,Sicily,2025,Pinot Grigio (White),54883.0,,4800000,,87.1
+1348,Sicily,2025,Primitivo (Red),30887.0,421.0,4800000,,73.4
+1349,Sicily,2025,Montepulciano (Red),27761.0,396.0,4800000,,70.1
+1350,Tuscany,2011,Sangiovese (Red),345536.0,5109.0,3600000,,67.6
+1351,Tuscany,2011,Nebbiolo (Red),20761.0,454.0,3600000,,45.7
+1352,Tuscany,2011,Glera (Prosecco/Sparkling),32476.0,376.0,3600000,,86.4
+1353,Tuscany,2011,Pinot Grigio (White),54709.0,606.0,3600000,,90.3
+1354,Tuscany,2011,Primitivo (Red),35006.0,468.0,3600000,,74.8
+1355,Tuscany,2011,Montepulciano (Red),35265.0,513.0,3600000,,68.7
+1356,Tuscany,2012,Sangiovese (Red),339275.0,4498.0,3600000,,75.4
+1357,Tuscany,2012,Nebbiolo (Red),13669.0,301.0,3600000,,45.4
+1358,Tuscany,2012,Glera (Prosecco/Sparkling),51494.0,495.0,3600000,,104.0
+1359,tuscany,2012,Pinot Grigio (White),25040.0,305.0,3600000,,82.1
+1360,Tuscany,2012,Primitivo (Red),19097.0,241.0,3600000,,79.2
+1361,Tuscany,2012,Montepulciano (Red),47962.0,585.0,3600000,,82.0
+1362,Tuscany,2013,Sangiovese (Red),188110.0,2925.0,3600000,,64.3
+1363,Tuscany,2013,Nebbiolo (Red),13324.0,312.0,3600000,,42.7
+1364,Tuscany,2013,Glera (Prosecco/Sparkling),46940.0,454.0,3600000,,103.4
+1365,Tuscany,2013,Pinot Grigio (White),29077.0,312.0,3600000,,93.2
+1366,Tuscany,2013,Primitivo (Red),36513.0,421.0,3600000,,86.7
+1367,Tuscany,2013,Montepulciano (Red),38979.0,447.0,3600000,,87.2
+1368,Tuscany,2014,Sangiovese (Red),434831.0,6969.0,3600000,,62.4
+1369,Tuscany,2014,Nebbiolo (Red),15415.0,354.0,3600000,,43.5
+1370,Tuscany,2014,Glera (Prosecco/Sparkling),26240.0,289.0,3600000,,90.8
+1371,Tuscany,2014,Pinot Grigio (White),37406.0,,3600000,,81.3
+1372,Tuscany,2014,Primitivo (Red),26923.0,470.0,3600000,,57.3
+1373,Tuscany,2014,Montepulciano (Red),48022.0,490.0,3600000,,98.0
+1374,Tuscany,2015,Sangiovese (Red),332787.0,5059.0,3600000,,65.8
+1375,Tuscany,2015,Nebbiolo (Red),118532.68708826706,367.0,3600000,,47.5
+1376,Tuscany,2015,Glera (Prosecco/Sparkling),40367.0,372.0,3600000,,108.5
+1377,Tuscany,2015,Pinot Grigio (White),41226.0,465.0,3600000,,88.7
+1378,Tuscany,2015,Primitivo (Red),33601.0,434.0,3600000,,77.4
+1379,Tuscany,2015,Montepulciano (Red),44909.0,566.0,3600000,,79.3
+1380,Tuscany,2016,Sangiovese (Red),298270.0,4329.0,3600000,,68.9
+1381,Tuscany,2016,Nebbiolo (Red),26102.0,499.0,3600000,,52.3
+1382,tuscany,2016,Glera (Prosecco/Sparkling),56183.0,542.0,3600000,,103.7
+1383,Tuscany,2016,Pinot Grigio (White),27348.0,265.0,3600000,,103.2
+1384,Tuscany,2016,Primitivo (Red),44070.0,562.0,3600000,,78.4
+1385,Tuscany,2016,Montepulciano (Red),31590.0,387.0,3600000,,81.6
+1386,Tuscany,2017,Sangiovese (Red),376525.0,8381.0,3600000,,44.9
+1387,Tuscany,2017,Nebbiolo (Red),17051.0,,3600000,,
+1388,Tuscany,2017,Glera (Prosecco/Sparkling),46905.0,606.0,3600000,,77.4
+1389,Tuscany,2017,Pinot Grigio (White),35701.0,418.0,3600000,,
+1390,Tuscany,2017,Primitivo (Red),25760.0,408.0,3600000,,63.1
+1391,Tuscany,2017,Montepulciano (Red),20268.0,342.0,3600000,,
+1392,tuscany,2018,Sangiovese (Red),2142830.682371518,5373.0,3600000,,58.7
+1393,Tuscany,2018,Nebbiolo (Red),14809.0,310.0,3600000,,47.8
+1394,Tuscany,2018,Glera (Prosecco/Sparkling),89591.0,690.0,3600000,,129.8
+1395,Tuscany,2018,Pinot Grigio (White),,572.0,3600000,,114.1
+1396,Tuscany,2018,Primitivo (Red),140483.1846972054,335.0,3600000,,61.7
+1397,Tuscany,2018,Montepulciano (Red),42154.0,504.0,3600000,,83.6
+1398,Tuscany,2019,Sangiovese (Red),497461.0,7431.0,3600000,,66.9
+1399,Tuscany,2019,Nebbiolo (Red),15463.0,390.0,3600000,,39.6
+1400,Tuscany,2019,Glera (Prosecco/Sparkling),70514.0,629.0,3600000,,112.1
+1401,Tuscany,2019,Pinot Grigio (White),41554.0,467.0,3600000,,89.0
+1402,Tuscany,2019,Primitivo (Red),15737.0,214.0,3600000,,73.5
+1403,Tuscany,2019,Montepulciano (Red),57303.0,644.0,3600000,,89.0
+1404,Tuscany,2020,Sangiovese (Red),1909000.1183689325,,3600000,,49.7
+1405,Tuscany,2020,Nebbiolo (Red),28083.0,621.0,3600000,,45.2
+1406,Tuscany,2020,Glera (Prosecco/Sparkling),100629.0,849.0,3600000,,118.5
+1407,Tuscany,2020,Pinot Grigio (White),37043.0,,3600000,,100.9
+1408,Tuscany,2020,Primitivo (Red),41040.0,617.0,3600000,,66.5
+1409,Tuscany,2020,Montepulciano (Red),36033.0,368.0,3600000,,97.9
+1410,Tuscany,2021,Sangiovese (Red),451273.0,7635.0,3600000,,
+1411,Tuscany,2021,Nebbiolo (Red),16731.0,386.0,3600000,,43.3
+1412,Tuscany,2021,glera (prosecco/sparkling),44212.0,406.0,3600000,,108.9
+1413,Tuscany,2021,Pinot Grigio (White),23722.0,370.0,3600000,,64.1
+1414,Tuscany,2021,Primitivo (Red),47135.0,612.0,3600000,,77.0
+1415,Tuscany,2021,montepulciano (red),25561.0,306.0,3600000,,83.5
+1416,Tuscany,2022,Sangiovese (Red),567941.0,,3600000,,68.7
+1417,Tuscany,2022,Nebbiolo (Red),22287.0,502.0,3600000,,44.4
+1418,Tuscany,2022,Glera (Prosecco/Sparkling),94589.0,794.0,3600000,,119.1
+1419,Tuscany,2022,pinot grigio (white),,242.0,3600000,,98.6
+1420,Tuscany,2022,Primitivo (Red),28987.0,426.0,3600000,,
+1421,Tuscany,2022,Montepulciano (Red),25714.0,257.0,3600000,,100.1
+1422,Tuscany,2023,Sangiovese (Red),377019.0,6357.0,3600000,,59.3
+1423,Tuscany,2023,Nebbiolo (Red),18123.0,481.0,3600000,,37.7
+1424,Tuscany,2023,Glera (Prosecco/Sparkling),37415.0,515.0,3600000,,72.7
+1425,Tuscany,2023,Pinot Grigio (White),44015.0,487.0,3600000,,90.4
+1426,Tuscany,2023,Primitivo (Red),18583.0,341.0,3600000,,54.5
+1427,Tuscany,2023,Montepulciano (Red),26831.0,545.0,3600000,,49.2
+1428,Tuscany,2024,Sangiovese (Red),471206.0,5881.0,3600000,,80.1
+1429,Tuscany,2024,Nebbiolo (Red),23398.0,479.0,3600000,,48.8
+1430,Tuscany,2024,Glera (Prosecco/Sparkling),55234.0,483.0,3600000,,114.4
+1431,Tuscany,2024,Pinot Grigio (White),74536.0,727.0,3600000,,102.5
+1432,Tuscany,2024,Primitivo (Red),26357.0,405.0,3600000,,65.1
+1433,Tuscany,2024,Montepulciano (Red),39325.0,456.0,3600000,,86.2
+1434,Tuscany,2025,Sangiovese (Red),437143.0,,3600000,,56.6
+1435,Tuscany,2025,Nebbiolo (Red),25050.0,414.0,3600000,,60.5
+1436,Tuscany,2025,Glera (Prosecco/Sparkling),50243.0,591.0,3600000,,85.0
+1437,Tuscany,2025,Pinot Grigio (White),33274.0,350.0,3600000,,95.1
+1438,Tuscany,2025,Primitivo (Red),43742.0,643.0,3600000,,68.0
+1439,Tuscany,2025,Montepulciano (Red),32153.0,473.0,3600000,,68.0
 1440,Trentino-Alto Adige,2011,Sangiovese (Red),3913.0,60.0,1100000,North,65.2
 1441,Trentino-Alto Adige,2011,Nebbiolo (Red),5205.0,115.0,1100000,North,45.3
 1442,Trentino-Alto Adige,2011,Glera (Prosecco/Sparkling),2491680.4946810016,3207.0,1100000,North,114.3
@@ -1619,96 +1619,96 @@
 1617,Umbria,2025,Pinot Grigio (White),7450.0,77.0,850000,Center,96.8
 1618,Umbria,2025,Primitivo (Red),13784.0,153.0,850000,Center,90.1
 1619,Umbria,2025,Montepulciano (Red),6773.0,102.0,850000,Center,66.4
-1620,Aosta Valley,2011,Sangiovese (Red),,6.0,123000,North,54.2
-1621,Aosta Valley,2011,Nebbiolo (Red),376.0,8.0,123000,North,
-1622,Aosta Valley,2011,Glera (Prosecco/Sparkling),905.0,8.0,123000,North,113.1
-1623,Aosta Valley,2011,Pinot Grigio (White),759.0,8.0,123000,North,94.9
-1624,aosta valley,2011,Primitivo (Red),2867.835910517641,5.0,123000,North,84.4
-1625,Aosta Valley,2011,Montepulciano (Red),493.0,6.0,123000,North,82.2
-1626,Aosta Valley,2012,Sangiovese (Red),461.0,8.0,123000,North,57.6
-1627,Aosta Valley,2012,Nebbiolo (Red),253.0,5.0,123000,North,50.6
-1628,Aosta Valley,2012,Glera (Prosecco/Sparkling),860.0,7.0,123000,North,
-1629,Aosta Valley,2012,Pinot Grigio (White),1129.0,12.0,123000,North,94.1
-1630,Aosta Valley,2012,Primitivo (Red),327.0,,123000,North,81.8
-1631,Aosta Valley,2012,montepulciano (red),838.0,10.0,123000,North,83.8
-1632,Aosta Valley,2013,Sangiovese (Red),521.0,9.0,123000,North,57.9
-1633,Aosta Valley,2013,Nebbiolo (Red),311.0,6.0,123000,North,51.8
-1634,Aosta Valley,2013,Glera (Prosecco/Sparkling),957.0,9.0,123000,North,106.3
-1635,Aosta Valley,2013,Pinot Grigio (White),763.0,10.0,123000,North,76.3
-1636,Aosta Valley,2013,Primitivo (Red),348.0,5.0,123000,North,69.6
-1637,Aosta Valley,2013,Montepulciano (Red),670.0,8.0,123000,North,83.8
-1638,Aosta Valley,2014,Sangiovese (Red),451.0,7.0,123000,North,64.4
-1639,aosta valley,2014,Nebbiolo (Red),,8.0,123000,North,51.5
-1640,Aosta Valley,2014,Glera (Prosecco/Sparkling),787.0,8.0,123000,North,98.4
-1641,Aosta Valley,2014,Pinot Grigio (White),757.0,10.0,123000,North,
-1642,Aosta Valley,2014,primitivo (red),566.0,7.0,123000,North,80.9
-1643,Aosta Valley,2014,Montepulciano (Red),689.0,10.0,123000,North,68.9
-1644,Aosta Valley,2015,Sangiovese (Red),604.0,10.0,123000,North,60.4
-1645,Aosta Valley,2015,Nebbiolo (Red),262.0,6.0,123000,North,43.7
-1646,Aosta Valley,2015,Glera (Prosecco/Sparkling),1101.0,10.0,123000,North,110.1
-1647,Aosta Valley,2015,Pinot Grigio (White),489.0,6.0,123000,North,81.5
-1648,Aosta Valley,2015,Primitivo (Red),,9.0,123000,North,69.7
-1649,Aosta Valley,2015,Montepulciano (Red),626.0,8.0,123000,North,78.2
-1650,Aosta Valley,2016,Sangiovese (Red),397.0,5.0,123000,North,79.4
-1651,Aosta Valley,2016,Nebbiolo (Red),282.0,6.0,123000,North,47.0
-1652,Aosta Valley,2016,Glera (Prosecco/Sparkling),1178.0,,123000,North,98.2
-1653,Aosta Valley,2016,Pinot Grigio (White),898.0,10.0,123000,North,89.8
-1654,Aosta Valley,2016,Primitivo (Red),749.0,9.0,123000,North,83.2
-1655,Aosta Valley,2016,Montepulciano (Red),640.0,9.0,123000,North,71.1
-1656,Aosta Valley,2017,Sangiovese (Red),346.0,9.0,123000,North,38.4
-1657,Aosta Valley,2017,Nebbiolo (Red),407.0,10.0,123000,North,40.7
-1658,Aosta Valley,2017,Glera (Prosecco/Sparkling),1323.0,12.0,123000,North,110.2
-1659,Aosta Valley,2017,Pinot Grigio (White),688.0,11.0,123000,North,62.5
-1660,Aosta Valley,2017,Primitivo (Red),311.0,5.0,123000,North,62.2
-1661,Aosta Valley,2017,montepulciano (red),398.0,6.0,123000,North,66.3
-1662,aosta valley,2018,sangiovese (red),341.0,7.0,123000,North,48.7
-1663,Aosta Valley,2018,Nebbiolo (Red),372.0,7.0,123000,North,53.1
-1664,Aosta Valley,2018,Glera (Prosecco/Sparkling),1062.0,10.0,123000,North,
-1665,Aosta Valley,2018,Pinot Grigio (White),630.0,7.0,123000,North,90.0
-1666,Aosta Valley,2018,Primitivo (Red),633.0,7.0,123000,North,90.4
-1667,Aosta Valley,2018,Montepulciano (Red),713.0,9.0,123000,North,79.2
-1668,Aosta Valley,2019,Sangiovese (Red),354.0,6.0,123000,North,59.0
-1669,Aosta Valley,2019,Nebbiolo (Red),378.0,7.0,123000,North,54.0
-1670,Aosta Valley,2019,Glera (Prosecco/Sparkling),1320.0,11.0,123000,North,120.0
-1671,Aosta Valley,2019,Pinot Grigio (White),447.0,5.0,123000,North,89.4
-1672,Aosta Valley,2019,Primitivo (Red),247.0,5.0,123000,North,
-1673,Aosta Valley,2019,Montepulciano (Red),892.0,11.0,123000,North,81.1
-1674,Aosta Valley,2020,Sangiovese (Red),323.0,,123000,North,64.6
-1675,Aosta Valley,2020,Nebbiolo (Red),377.0,8.0,123000,North,47.1
-1676,Aosta Valley,2020,Glera (Prosecco/Sparkling),1292.0,11.0,123000,North,117.5
-1677,Aosta Valley,2020,pinot grigio (white),456.0,5.0,123000,North,91.2
-1678,aosta valley,2020,Primitivo (Red),542.0,8.0,123000,North,
-1679,aosta valley,2020,Montepulciano (Red),,6.0,123000,North,91.8
-1680,Aosta Valley,2021,Sangiovese (Red),573.0,9.0,123000,North,63.7
-1681,Aosta Valley,2021,Nebbiolo (Red),279.0,8.0,123000,North,34.9
-1682,Aosta Valley,2021,Glera (Prosecco/Sparkling),,11.0,123000,North,90.4
-1683,Aosta Valley,2021,Pinot Grigio (White),486.0,5.0,123000,North,97.2
-1684,Aosta Valley,2021,Primitivo (Red),764.0,9.0,123000,North,84.9
-1685,Aosta Valley,2021,Montepulciano (Red),462.0,6.0,123000,North,77.0
-1686,Aosta Valley,2022,Sangiovese (Red),653.0,,123000,North,59.4
-1687,Aosta Valley,2022,Nebbiolo (Red),265.0,6.0,123000,North,44.2
-1688,Aosta Valley,2022,Glera (Prosecco/Sparkling),625.0,6.0,123000,North,104.2
-1689,Aosta Valley,2022,Pinot Grigio (White),,4.0,123000,North,77.5
-1690,Aosta Valley,2022,Primitivo (Red),717.0,9.0,123000,North,79.7
-1691,Aosta Valley,2022,Montepulciano (Red),719.0,,123000,North,79.9
-1692,Aosta Valley,2023,sangiovese (red),337.0,7.0,123000,North,48.1
-1693,Aosta Valley,2023,Nebbiolo (Red),387.0,11.0,123000,North,35.2
-1694,Aosta Valley,2023,Glera (Prosecco/Sparkling),1037.0,,123000,North,86.4
-1695,Aosta Valley,2023,Pinot Grigio (White),700.0,8.0,123000,North,87.5
-1696,Aosta Valley,2023,Primitivo (Red),457.0,7.0,123000,North,65.3
-1697,Aosta Valley,2023,Montepulciano (Red),529.0,7.0,123000,North,75.6
-1698,Aosta Valley,2024,Sangiovese (Red),968.0,13.0,123000,North,74.5
-1699,Aosta Valley,2024,Nebbiolo (Red),373.0,8.0,123000,North,46.6
-1700,Aosta Valley,2024,glera (prosecco/sparkling),1394.0,12.0,123000,North,116.2
-1701,Aosta Valley,2024,Pinot Grigio (White),444.0,4.0,123000,North,111.0
-1702,Aosta Valley,2024,Primitivo (Red),3832.842306947748,8.0,123000,North,70.5
-1703,Aosta Valley,2024,Montepulciano (Red),706.0,7.0,123000,North,100.9
-1704,Aosta Valley,2025,Sangiovese (Red),412.0,6.0,123000,North,68.7
-1705,Aosta Valley,2025,Nebbiolo (Red),298.0,6.0,123000,North,49.7
-1706,Aosta Valley,2025,Glera (Prosecco/Sparkling),883.0,8.0,123000,North,110.4
-1707,Aosta Valley,2025,Pinot Grigio (White),837.0,10.0,123000,North,83.7
-1708,Aosta Valley,2025,Primitivo (Red),551.0,7.0,123000,North,78.7
-1709,Aosta Valley,2025,Montepulciano (Red),532.0,6.0,123000,North,88.7
+1620,Aosta Valley,2011,Sangiovese (Red),,6.0,123000,,54.2
+1621,Aosta Valley,2011,Nebbiolo (Red),376.0,8.0,123000,,
+1622,Aosta Valley,2011,Glera (Prosecco/Sparkling),905.0,8.0,123000,,113.1
+1623,Aosta Valley,2011,Pinot Grigio (White),759.0,8.0,123000,,94.9
+1624,aosta valley,2011,Primitivo (Red),2867.835910517641,5.0,123000,,84.4
+1625,Aosta Valley,2011,Montepulciano (Red),493.0,6.0,123000,,82.2
+1626,Aosta Valley,2012,Sangiovese (Red),461.0,8.0,123000,,57.6
+1627,Aosta Valley,2012,Nebbiolo (Red),253.0,5.0,123000,,50.6
+1628,Aosta Valley,2012,Glera (Prosecco/Sparkling),860.0,7.0,123000,,
+1629,Aosta Valley,2012,Pinot Grigio (White),1129.0,12.0,123000,,94.1
+1630,Aosta Valley,2012,Primitivo (Red),327.0,,123000,,81.8
+1631,Aosta Valley,2012,montepulciano (red),838.0,10.0,123000,,83.8
+1632,Aosta Valley,2013,Sangiovese (Red),521.0,9.0,123000,,57.9
+1633,Aosta Valley,2013,Nebbiolo (Red),311.0,6.0,123000,,51.8
+1634,Aosta Valley,2013,Glera (Prosecco/Sparkling),957.0,9.0,123000,,106.3
+1635,Aosta Valley,2013,Pinot Grigio (White),763.0,10.0,123000,,76.3
+1636,Aosta Valley,2013,Primitivo (Red),348.0,5.0,123000,,69.6
+1637,Aosta Valley,2013,Montepulciano (Red),670.0,8.0,123000,,83.8
+1638,Aosta Valley,2014,Sangiovese (Red),451.0,7.0,123000,,64.4
+1639,aosta valley,2014,Nebbiolo (Red),,8.0,123000,,51.5
+1640,Aosta Valley,2014,Glera (Prosecco/Sparkling),787.0,8.0,123000,,98.4
+1641,Aosta Valley,2014,Pinot Grigio (White),757.0,10.0,123000,,
+1642,Aosta Valley,2014,primitivo (red),566.0,7.0,123000,,80.9
+1643,Aosta Valley,2014,Montepulciano (Red),689.0,10.0,123000,,68.9
+1644,Aosta Valley,2015,Sangiovese (Red),604.0,10.0,123000,,60.4
+1645,Aosta Valley,2015,Nebbiolo (Red),262.0,6.0,123000,,43.7
+1646,Aosta Valley,2015,Glera (Prosecco/Sparkling),1101.0,10.0,123000,,110.1
+1647,Aosta Valley,2015,Pinot Grigio (White),489.0,6.0,123000,,81.5
+1648,Aosta Valley,2015,Primitivo (Red),,9.0,123000,,69.7
+1649,Aosta Valley,2015,Montepulciano (Red),626.0,8.0,123000,,78.2
+1650,Aosta Valley,2016,Sangiovese (Red),397.0,5.0,123000,,79.4
+1651,Aosta Valley,2016,Nebbiolo (Red),282.0,6.0,123000,,47.0
+1652,Aosta Valley,2016,Glera (Prosecco/Sparkling),1178.0,,123000,,98.2
+1653,Aosta Valley,2016,Pinot Grigio (White),898.0,10.0,123000,,89.8
+1654,Aosta Valley,2016,Primitivo (Red),749.0,9.0,123000,,83.2
+1655,Aosta Valley,2016,Montepulciano (Red),640.0,9.0,123000,,71.1
+1656,Aosta Valley,2017,Sangiovese (Red),346.0,9.0,123000,,38.4
+1657,Aosta Valley,2017,Nebbiolo (Red),407.0,10.0,123000,,40.7
+1658,Aosta Valley,2017,Glera (Prosecco/Sparkling),1323.0,12.0,123000,,110.2
+1659,Aosta Valley,2017,Pinot Grigio (White),688.0,11.0,123000,,62.5
+1660,Aosta Valley,2017,Primitivo (Red),311.0,5.0,123000,,62.2
+1661,Aosta Valley,2017,montepulciano (red),398.0,6.0,123000,,66.3
+1662,aosta valley,2018,sangiovese (red),341.0,7.0,123000,,48.7
+1663,Aosta Valley,2018,Nebbiolo (Red),372.0,7.0,123000,,53.1
+1664,Aosta Valley,2018,Glera (Prosecco/Sparkling),1062.0,10.0,123000,,
+1665,Aosta Valley,2018,Pinot Grigio (White),630.0,7.0,123000,,90.0
+1666,Aosta Valley,2018,Primitivo (Red),633.0,7.0,123000,,90.4
+1667,Aosta Valley,2018,Montepulciano (Red),713.0,9.0,123000,,79.2
+1668,Aosta Valley,2019,Sangiovese (Red),354.0,6.0,123000,,59.0
+1669,Aosta Valley,2019,Nebbiolo (Red),378.0,7.0,123000,,54.0
+1670,Aosta Valley,2019,Glera (Prosecco/Sparkling),1320.0,11.0,123000,,120.0
+1671,Aosta Valley,2019,Pinot Grigio (White),447.0,5.0,123000,,89.4
+1672,Aosta Valley,2019,Primitivo (Red),247.0,5.0,123000,,
+1673,Aosta Valley,2019,Montepulciano (Red),892.0,11.0,123000,,81.1
+1674,Aosta Valley,2020,Sangiovese (Red),323.0,,123000,,64.6
+1675,Aosta Valley,2020,Nebbiolo (Red),377.0,8.0,123000,,47.1
+1676,Aosta Valley,2020,Glera (Prosecco/Sparkling),1292.0,11.0,123000,,117.5
+1677,Aosta Valley,2020,pinot grigio (white),456.0,5.0,123000,,91.2
+1678,aosta valley,2020,Primitivo (Red),542.0,8.0,123000,,
+1679,aosta valley,2020,Montepulciano (Red),,6.0,123000,,91.8
+1680,Aosta Valley,2021,Sangiovese (Red),573.0,9.0,123000,,63.7
+1681,Aosta Valley,2021,Nebbiolo (Red),279.0,8.0,123000,,34.9
+1682,Aosta Valley,2021,Glera (Prosecco/Sparkling),,11.0,123000,,90.4
+1683,Aosta Valley,2021,Pinot Grigio (White),486.0,5.0,123000,,97.2
+1684,Aosta Valley,2021,Primitivo (Red),764.0,9.0,123000,,84.9
+1685,Aosta Valley,2021,Montepulciano (Red),462.0,6.0,123000,,77.0
+1686,Aosta Valley,2022,Sangiovese (Red),653.0,,123000,,59.4
+1687,Aosta Valley,2022,Nebbiolo (Red),265.0,6.0,123000,,44.2
+1688,Aosta Valley,2022,Glera (Prosecco/Sparkling),625.0,6.0,123000,,104.2
+1689,Aosta Valley,2022,Pinot Grigio (White),,4.0,123000,,77.5
+1690,Aosta Valley,2022,Primitivo (Red),717.0,9.0,123000,,79.7
+1691,Aosta Valley,2022,Montepulciano (Red),719.0,,123000,,79.9
+1692,Aosta Valley,2023,sangiovese (red),337.0,7.0,123000,,48.1
+1693,Aosta Valley,2023,Nebbiolo (Red),387.0,11.0,123000,,35.2
+1694,Aosta Valley,2023,Glera (Prosecco/Sparkling),1037.0,,123000,,86.4
+1695,Aosta Valley,2023,Pinot Grigio (White),700.0,8.0,123000,,87.5
+1696,Aosta Valley,2023,Primitivo (Red),457.0,7.0,123000,,65.3
+1697,Aosta Valley,2023,Montepulciano (Red),529.0,7.0,123000,,75.6
+1698,Aosta Valley,2024,Sangiovese (Red),968.0,13.0,123000,,74.5
+1699,Aosta Valley,2024,Nebbiolo (Red),373.0,8.0,123000,,46.6
+1700,Aosta Valley,2024,glera (prosecco/sparkling),1394.0,12.0,123000,,116.2
+1701,Aosta Valley,2024,Pinot Grigio (White),444.0,4.0,123000,,111.0
+1702,Aosta Valley,2024,Primitivo (Red),3832.842306947748,8.0,123000,,70.5
+1703,Aosta Valley,2024,Montepulciano (Red),706.0,7.0,123000,,100.9
+1704,Aosta Valley,2025,Sangiovese (Red),412.0,6.0,123000,,68.7
+1705,Aosta Valley,2025,Nebbiolo (Red),298.0,6.0,123000,,49.7
+1706,Aosta Valley,2025,Glera (Prosecco/Sparkling),883.0,8.0,123000,,110.4
+1707,Aosta Valley,2025,Pinot Grigio (White),837.0,10.0,123000,,83.7
+1708,Aosta Valley,2025,Primitivo (Red),551.0,7.0,123000,,78.7
+1709,Aosta Valley,2025,Montepulciano (Red),532.0,6.0,123000,,88.7
 1710,Veneto,2011,Sangiovese (Red),32364.0,492.0,4800000,North,65.8
 1711,Veneto,2011,Nebbiolo (Red),31335.0,679.0,4800000,North,46.1
 1712,Veneto,2011,Glera (Prosecco/Sparkling),1225433.0,10793.0,4800000,North,113.5
